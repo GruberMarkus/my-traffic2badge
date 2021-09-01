@@ -2,8 +2,8 @@
   {
     "path": "/GruberMarkus/Build-OSCamForWindows",
     "title": "GruberMarkus/Build-OSCamForWindows: Fully automate building OSCam for Windows...",
-    "count": 18,
-    "uniques": 12
+    "count": 16,
+    "uniques": 10
   },
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/blob/main/Build-OSCamForWindows.ps1",
@@ -26,12 +26,6 @@
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/commit/4dce57f3013340badf49c9fa711df589f0d61d3a",
     "title": "Add OSCam-Emu support. · GruberMarkus/Build-OSCamForWindows@4dce57f · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/Build-OSCamForWindows/commit/c4139232a4b248a30fe9af184f35b9921f8d8814",
-    "title": "Compile with CONF_DIR=./ · GruberMarkus/Build-OSCamForWindows@c413923 · GitHub",
     "count": 1,
     "uniques": 1
   },

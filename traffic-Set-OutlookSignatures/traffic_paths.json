@@ -2,32 +2,8 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures",
     "title": "GitHub - GruberMarkus/Set-OutlookSignatures: Central Outlook for Windows mana...",
-    "count": 152,
-    "uniques": 111
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/issues",
-    "title": "Issues · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 5,
-    "uniques": 2
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/pulls",
-    "title": "Pull requests · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 5,
-    "uniques": 2
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/discussions",
-    "title": "Discussions · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/Set-OutlookSignatures.ps1",
-    "title": "Set-OutlookSignatures/Set-OutlookSignatures.ps1 at main · GruberMarkus/Set-Ou...",
-    "count": 4,
-    "uniques": 4
+    "count": 117,
+    "uniques": 100
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/implementation%20approach.html",
@@ -36,16 +12,10 @@
     "uniques": 3
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/commit/39d80816333f45f9b0d62eb72111fe54cd679484",
-    "title": "Icon file (.ico) · GruberMarkus/Set-OutlookSignatures@39d8081 · GitHub",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/actions",
-    "title": "Actions · GruberMarkus/Set-OutlookSignatures · GitHub",
+    "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/Set-OutlookSignatures.ps1",
+    "title": "Set-OutlookSignatures/Set-OutlookSignatures.ps1 at main · GruberMarkus/Set-Ou...",
     "count": 3,
-    "uniques": 2
+    "uniques": 3
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/implementation%20approach.md",
@@ -54,9 +24,39 @@
     "uniques": 2
   },
   {
+    "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/readme.md",
+    "title": "Set-OutlookSignatures/readme.md at main · GruberMarkus/Set-OutlookSignatures ...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/actions",
+    "title": "Actions · GruberMarkus/Set-OutlookSignatures · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/license.txt",
     "title": "Set-OutlookSignatures/license.txt at main · GruberMarkus/Set-OutlookSignature...",
-    "count": 2,
-    "uniques": 2
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/readme.html",
+    "title": "Set-OutlookSignatures/readme.html at main · GruberMarkus/Set-OutlookSignature...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/find/main",
+    "title": "File Finder · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/issues",
+    "title": "Issues · GruberMarkus/Set-OutlookSignatures · GitHub",
+    "count": 1,
+    "uniques": 1
   }
 ]
