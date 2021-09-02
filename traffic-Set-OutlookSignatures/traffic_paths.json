@@ -2,25 +2,19 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures",
     "title": "GitHub - GruberMarkus/Set-OutlookSignatures: Central Outlook for Windows mana...",
-    "count": 117,
-    "uniques": 100
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/implementation%20approach.html",
-    "title": "Set-OutlookSignatures/implementation approach.html at main · GruberMarkus/Set...",
-    "count": 4,
-    "uniques": 3
+    "count": 110,
+    "uniques": 93
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/Set-OutlookSignatures.ps1",
     "title": "Set-OutlookSignatures/Set-OutlookSignatures.ps1 at main · GruberMarkus/Set-Ou...",
-    "count": 3,
+    "count": 5,
     "uniques": 3
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/implementation%20approach.md",
-    "title": "Set-OutlookSignatures/implementation approach.md at main · GruberMarkus/Set-O...",
-    "count": 2,
+    "path": "/GruberMarkus/Set-OutlookSignatures/find/main",
+    "title": "File Finder · GitHub",
+    "count": 3,
     "uniques": 2
   },
   {
@@ -36,8 +30,14 @@
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/license.txt",
-    "title": "Set-OutlookSignatures/license.txt at main · GruberMarkus/Set-OutlookSignature...",
+    "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/implementation%20approach.html",
+    "title": "Set-OutlookSignatures/implementation approach.html at main · GruberMarkus/Set...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/implementation%20approach.md",
+    "title": "Set-OutlookSignatures/implementation approach.md at main · GruberMarkus/Set-O...",
     "count": 1,
     "uniques": 1
   },
@@ -48,8 +48,8 @@
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/find/main",
-    "title": "File Finder · GitHub",
+    "path": "/GruberMarkus/Set-OutlookSignatures/commit/7827b60c489fd6b18062c425bf787fe91dbebe4a",
+    "title": "Cosmetic changes in preparation of release v2.1.1 · GruberMarkus/Set-OutlookS...",
     "count": 1,
     "uniques": 1
   },
