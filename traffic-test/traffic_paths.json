@@ -1,62 +1,62 @@
 [
   {
-    "path": "/GruberMarkus/test/actions/workflows/semver.yml",
+    "path": "/GruberMarkus/test/actions",
     "title": "Actions · GruberMarkus/test",
-    "count": 47,
+    "count": 127,
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/test/actions",
+    "path": "/GruberMarkus/test/actions/workflows/semver.yml",
     "title": "Actions · GruberMarkus/test",
-    "count": 33,
+    "count": 110,
     "uniques": 1
   },
   {
     "path": "/GruberMarkus/test",
     "title": "GruberMarkus/test",
-    "count": 12,
+    "count": 45,
     "uniques": 2
   },
   {
-    "path": "/GruberMarkus/test/tags",
-    "title": "Releases · GruberMarkus/test",
-    "count": 7,
+    "path": "/GruberMarkus/test/actions/workflows/xxx.yml",
+    "title": "Actions · GruberMarkus/test",
+    "count": 26,
     "uniques": 1
   },
   {
     "path": "/GruberMarkus/test/releases",
     "title": "Releases · GruberMarkus/test",
-    "count": 5,
+    "count": 26,
     "uniques": 1
   },
   {
-    "path": "/grubermarkus/test/releases",
-    "title": "Releases · GruberMarkus/test",
-    "count": 3,
+    "path": "/GruberMarkus/test/tags",
+    "title": "Tags · GruberMarkus/test",
+    "count": 23,
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/test/releases/tag/untagged-e29d4393be8a92909edc",
-    "title": "Release Release v1.0.17 · GruberMarkus/test",
-    "count": 3,
+    "path": "/GruberMarkus/test/actions/workflows/build.yml",
+    "title": "Actions · GruberMarkus/test",
+    "count": 20,
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/test/releases/tag/v1.0.17",
-    "title": "Release Release v1.0.17 · GruberMarkus/test",
-    "count": 3,
+    "path": "/GruberMarkus/test/actions/workflows/SemVer,%20tag,%20build,%20pre-release.yml",
+    "title": "Actions · GruberMarkus/test",
+    "count": 17,
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/test/actions/runs/1191241852",
-    "title": "uuu · GruberMarkus/test@e78b5e7",
-    "count": 2,
+    "path": "/GruberMarkus/test/actions/workflows/Semver,%20tag.yml",
+    "title": "Actions · GruberMarkus/test",
+    "count": 12,
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/test/actions/runs/1191450027",
-    "title": "afdadf · GruberMarkus/test@290262f",
-    "count": 2,
+    "path": "/GruberMarkus/test/tree/develop",
+    "title": "GruberMarkus/test at develop",
+    "count": 11,
     "uniques": 1
   }
 ]
