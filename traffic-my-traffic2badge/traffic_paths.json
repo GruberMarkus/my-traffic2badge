@@ -1,7 +1,13 @@
 [
   {
     "path": "/GruberMarkus/my-traffic2badge",
-    "title": "GitHub - GruberMarkus/my-traffic2badge",
+    "title": "GruberMarkus/my-traffic2badge",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/tree/traffic",
+    "title": "GruberMarkus/my-traffic2badge at traffic",
     "count": 1,
     "uniques": 1
   }

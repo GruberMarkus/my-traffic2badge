@@ -1,5 +1,35 @@
 [
   {
+    "path": "/GruberMarkus/test/actions/workflows/semver.yml",
+    "title": "Actions · GruberMarkus/test",
+    "count": 47,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/test/actions",
+    "title": "Actions · GruberMarkus/test",
+    "count": 33,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/test",
+    "title": "GruberMarkus/test",
+    "count": 12,
+    "uniques": 2
+  },
+  {
+    "path": "/GruberMarkus/test/tags",
+    "title": "Releases · GruberMarkus/test",
+    "count": 7,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/test/releases",
+    "title": "Releases · GruberMarkus/test",
+    "count": 5,
+    "uniques": 1
+  },
+  {
     "path": "/grubermarkus/test/releases",
     "title": "Releases · GruberMarkus/test",
     "count": 3,
@@ -18,39 +48,15 @@
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/test",
-    "title": "GruberMarkus/test",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/GruberMarkus/test/releases/edit/untagged-e29d4393be8a92909edc",
-    "title": "Edit release · GruberMarkus/test",
+    "path": "/GruberMarkus/test/actions/runs/1191241852",
+    "title": "uuu · GruberMarkus/test@e78b5e7",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/test/actions/runs/1186742563",
-    "title": "u · GruberMarkus/test@c010817",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/test/releases",
-    "title": "Releases · GruberMarkus/test",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/test/releases/edit/v1.0.9",
-    "title": "Edit release · GruberMarkus/test",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/test/releases/tag/v1.0.9",
-    "title": "Release v1.0.9 · GruberMarkus/test",
-    "count": 1,
+    "path": "/GruberMarkus/test/actions/runs/1191450027",
+    "title": "afdadf · GruberMarkus/test@290262f",
+    "count": 2,
     "uniques": 1
   }
 ]

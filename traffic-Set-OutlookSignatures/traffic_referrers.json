@@ -1,8 +1,8 @@
 [
   {
     "referrer": "linkedin.com",
-    "count": 36,
-    "uniques": 34
+    "count": 34,
+    "uniques": 33
   },
   {
     "referrer": "lnkd.in",
@@ -10,19 +10,19 @@
     "uniques": 8
   },
   {
-    "referrer": "github.com",
-    "count": 7,
-    "uniques": 7
-  },
-  {
     "referrer": "Google",
-    "count": 5,
-    "uniques": 4
+    "count": 6,
+    "uniques": 6
   },
   {
     "referrer": "doku.seu.sozvers.at",
-    "count": 5,
+    "count": 6,
     "uniques": 1
+  },
+  {
+    "referrer": "github.com",
+    "count": 5,
+    "uniques": 5
   },
   {
     "referrer": "Bing",

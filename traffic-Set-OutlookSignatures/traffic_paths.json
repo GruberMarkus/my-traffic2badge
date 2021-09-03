@@ -2,8 +2,8 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures",
     "title": "GitHub - GruberMarkus/Set-OutlookSignatures: Central Outlook for Windows mana...",
-    "count": 110,
-    "uniques": 93
+    "count": 107,
+    "uniques": 91
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/Set-OutlookSignatures.ps1",
@@ -12,20 +12,26 @@
     "uniques": 3
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/find/main",
-    "title": "File Finder · GitHub",
-    "count": 3,
-    "uniques": 2
-  },
-  {
     "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/readme.md",
     "title": "Set-OutlookSignatures/readme.md at main · GruberMarkus/Set-OutlookSignatures ...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/find/main",
+    "title": "File Finder · GitHub",
     "count": 2,
     "uniques": 1
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/actions",
     "title": "Actions · GruberMarkus/Set-OutlookSignatures · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/config/default%20replacement%20variables.ps1",
+    "title": "Set-OutlookSignatures/default replacement variables.ps1 at main · GruberMarku...",
     "count": 1,
     "uniques": 1
   },
@@ -50,12 +56,6 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/commit/7827b60c489fd6b18062c425bf787fe91dbebe4a",
     "title": "Cosmetic changes in preparation of release v2.1.1 · GruberMarkus/Set-OutlookS...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/issues",
-    "title": "Issues · GruberMarkus/Set-OutlookSignatures · GitHub",
     "count": 1,
     "uniques": 1
   }
