@@ -2,7 +2,13 @@
   {
     "path": "/GruberMarkus/test/actions",
     "title": "Actions · GruberMarkus/test",
-    "count": 127,
+    "count": 241,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/test/releases",
+    "title": "Releases · GruberMarkus/test",
+    "count": 119,
     "uniques": 1
   },
   {
@@ -14,8 +20,14 @@
   {
     "path": "/GruberMarkus/test",
     "title": "GruberMarkus/test",
-    "count": 45,
+    "count": 69,
     "uniques": 2
+  },
+  {
+    "path": "/GruberMarkus/test/tags",
+    "title": "Tags · GruberMarkus/test",
+    "count": 45,
+    "uniques": 1
   },
   {
     "path": "/GruberMarkus/test/actions/workflows/xxx.yml",
@@ -24,39 +36,27 @@
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/test/releases",
-    "title": "Releases · GruberMarkus/test",
-    "count": 26,
+    "path": "/GruberMarkus/test/actions/workflows/build,%20draft%20release.yml",
+    "title": "Actions · GruberMarkus/test",
+    "count": 25,
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/test/tags",
-    "title": "Tags · GruberMarkus/test",
-    "count": 23,
+    "path": "/GruberMarkus/test/tree/develop",
+    "title": "GruberMarkus/test at develop",
+    "count": 25,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/test/actions/workflows/Semver,%20tag.yml",
+    "title": "Actions · GruberMarkus/test",
+    "count": 21,
     "uniques": 1
   },
   {
     "path": "/GruberMarkus/test/actions/workflows/build.yml",
     "title": "Actions · GruberMarkus/test",
     "count": 20,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/test/actions/workflows/SemVer,%20tag,%20build,%20pre-release.yml",
-    "title": "Actions · GruberMarkus/test",
-    "count": 17,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/test/actions/workflows/Semver,%20tag.yml",
-    "title": "Actions · GruberMarkus/test",
-    "count": 12,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/test/tree/develop",
-    "title": "GruberMarkus/test at develop",
-    "count": 11,
     "uniques": 1
   }
 ]
