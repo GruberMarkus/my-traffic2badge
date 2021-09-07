@@ -2,13 +2,13 @@
   {
     "path": "/GruberMarkus/test/actions",
     "title": "Actions · GruberMarkus/test",
-    "count": 241,
+    "count": 276,
     "uniques": 1
   },
   {
     "path": "/GruberMarkus/test/releases",
     "title": "Releases · GruberMarkus/test",
-    "count": 119,
+    "count": 194,
     "uniques": 1
   },
   {
@@ -20,13 +20,19 @@
   {
     "path": "/GruberMarkus/test",
     "title": "GruberMarkus/test",
-    "count": 69,
+    "count": 72,
     "uniques": 2
   },
   {
     "path": "/GruberMarkus/test/tags",
     "title": "Tags · GruberMarkus/test",
-    "count": 45,
+    "count": 47,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/test/actions/workflows/build,%20draft%20release.yml",
+    "title": "Actions · GruberMarkus/test",
+    "count": 43,
     "uniques": 1
   },
   {
@@ -36,15 +42,9 @@
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/test/actions/workflows/build,%20draft%20release.yml",
-    "title": "Actions · GruberMarkus/test",
-    "count": 25,
-    "uniques": 1
-  },
-  {
     "path": "/GruberMarkus/test/tree/develop",
     "title": "GruberMarkus/test at develop",
-    "count": 25,
+    "count": 26,
     "uniques": 1
   },
   {

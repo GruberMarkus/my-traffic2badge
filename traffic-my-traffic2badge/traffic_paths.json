@@ -2,19 +2,31 @@
   {
     "path": "/GruberMarkus/my-traffic2badge",
     "title": "GruberMarkus/my-traffic2badge",
-    "count": 15,
+    "count": 25,
     "uniques": 3
   },
   {
     "path": "/GruberMarkus/my-traffic2badge/actions",
     "title": "Actions · GruberMarkus/my-traffic2badge",
-    "count": 8,
+    "count": 13,
     "uniques": 1
   },
   {
     "path": "/GruberMarkus/my-traffic2badge/actions/workflows/traffic2badge.yml",
     "title": "Actions · GruberMarkus/my-traffic2badge",
-    "count": 6,
+    "count": 11,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/tree/traffic",
+    "title": "GruberMarkus/my-traffic2badge at traffic",
+    "count": 10,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/branches",
+    "title": "Branches · GruberMarkus/my-traffic2badge",
+    "count": 4,
     "uniques": 1
   },
   {
@@ -30,8 +42,8 @@
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/my-traffic2badge/branches",
-    "title": "Branches · GruberMarkus/my-traffic2badge",
+    "path": "/GruberMarkus/my-traffic2badge/blob/workflows/.github/workflows/traffic2badge.yml",
+    "title": "my-traffic2badge/traffic2badge.yml at workflows · GruberMarkus/my-traffic2badge",
     "count": 2,
     "uniques": 1
   },
@@ -42,21 +54,9 @@
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/my-traffic2badge/tree/traffic",
-    "title": "GruberMarkus/my-traffic2badge at traffic",
+    "path": "/GruberMarkus/my-traffic2badge/tree/workflows",
+    "title": "GruberMarkus/my-traffic2badge at workflows",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/my-traffic2badge/actions/runs/1198421166",
-    "title": "Make 'traffic' the only branch · GruberMarkus/my-traffic2badge@99cd4ef",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/my-traffic2badge/tree/delete/main/.github",
-    "title": "Deleting my-traffic2badge/.github/ at main · GruberMarkus/my-traffic2badge",
-    "count": 1,
     "uniques": 1
   }
 ]
