@@ -2,25 +2,25 @@
   {
     "path": "/GruberMarkus/my-traffic2badge",
     "title": "GruberMarkus/my-traffic2badge",
-    "count": 25,
+    "count": 27,
     "uniques": 3
   },
   {
     "path": "/GruberMarkus/my-traffic2badge/actions",
     "title": "Actions · GruberMarkus/my-traffic2badge",
-    "count": 13,
+    "count": 14,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/tree/traffic",
+    "title": "GruberMarkus/my-traffic2badge at traffic",
+    "count": 12,
     "uniques": 1
   },
   {
     "path": "/GruberMarkus/my-traffic2badge/actions/workflows/traffic2badge.yml",
     "title": "Actions · GruberMarkus/my-traffic2badge",
     "count": 11,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/my-traffic2badge/tree/traffic",
-    "title": "GruberMarkus/my-traffic2badge at traffic",
-    "count": 10,
     "uniques": 1
   },
   {

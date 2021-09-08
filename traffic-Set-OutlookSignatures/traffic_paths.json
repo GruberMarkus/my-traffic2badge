@@ -2,8 +2,8 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures",
     "title": "GruberMarkus/Set-OutlookSignatures: Central Outlook for Windows management an...",
-    "count": 133,
-    "uniques": 86
+    "count": 130,
+    "uniques": 78
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/issues",
@@ -48,15 +48,15 @@
     "uniques": 2
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/tree/develop",
-    "title": "GruberMarkus/Set-OutlookSignatures at develop",
+    "path": "/GruberMarkus/Set-OutlookSignatures/tags",
+    "title": "Tags · GruberMarkus/Set-OutlookSignatures · GitHub",
     "count": 4,
     "uniques": 2
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/tags",
-    "title": "Tags · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 3,
+    "path": "/GruberMarkus/Set-OutlookSignatures/tree/develop",
+    "title": "GruberMarkus/Set-OutlookSignatures at develop",
+    "count": 4,
     "uniques": 2
   }
 ]
