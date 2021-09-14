@@ -1,13 +1,13 @@
 [
   {
     "referrer": "linkedin.com",
-    "count": 19,
-    "uniques": 17
+    "count": 18,
+    "uniques": 16
   },
   {
     "referrer": "github.com",
-    "count": 14,
-    "uniques": 5
+    "count": 15,
+    "uniques": 6
   },
   {
     "referrer": "Google",
@@ -16,17 +16,12 @@
   },
   {
     "referrer": "img.shields.io",
-    "count": 3,
+    "count": 5,
     "uniques": 2
   },
   {
     "referrer": "doku.seu.sozvers.at",
     "count": 3,
-    "uniques": 1
-  },
-  {
-    "referrer": "lnkd.in",
-    "count": 1,
     "uniques": 1
   },
   {
