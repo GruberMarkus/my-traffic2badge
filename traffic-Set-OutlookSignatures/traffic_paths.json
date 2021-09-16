@@ -2,44 +2,44 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures",
     "title": "GruberMarkus/Set-OutlookSignatures: Central Outlook for Windows management an...",
-    "count": 233,
-    "uniques": 42
+    "count": 222,
+    "uniques": 39
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/releases",
     "title": "Releases · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 185,
-    "uniques": 6
+    "count": 188,
+    "uniques": 5
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tags",
     "title": "Tags · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 57,
+    "count": 58,
     "uniques": 3
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/actions",
-    "title": "Actions · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 44,
-    "uniques": 2
+    "title": "Actions · GruberMarkus/Set-OutlookSignatures",
+    "count": 43,
+    "uniques": 1
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/issues",
     "title": "Issues · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 33,
-    "uniques": 4
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/branches",
-    "title": "Branches · GruberMarkus/Set-OutlookSignatures",
-    "count": 22,
-    "uniques": 2
+    "count": 29,
+    "uniques": 5
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/develop",
     "title": "GruberMarkus/Set-OutlookSignatures at develop",
-    "count": 22,
+    "count": 21,
     "uniques": 2
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/branches",
+    "title": "Branches · GruberMarkus/Set-OutlookSignatures",
+    "count": 14,
+    "uniques": 1
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/releases/tag/v2.2.0",
@@ -54,8 +54,8 @@
     "uniques": 3
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/pulls",
-    "title": "Pull requests · GruberMarkus/Set-OutlookSignatures · GitHub",
+    "path": "/GruberMarkus/Set-OutlookSignatures/releases/tag/v2.1.2",
+    "title": "Release Release v2.1.2 · GruberMarkus/Set-OutlookSignatures",
     "count": 8,
     "uniques": 2
   }

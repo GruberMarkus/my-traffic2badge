@@ -1,13 +1,13 @@
 [
   {
-    "referrer": "linkedin.com",
-    "count": 17,
-    "uniques": 15
+    "referrer": "github.com",
+    "count": 18,
+    "uniques": 8
   },
   {
-    "referrer": "github.com",
-    "count": 16,
-    "uniques": 7
+    "referrer": "linkedin.com",
+    "count": 14,
+    "uniques": 12
   },
   {
     "referrer": "img.shields.io",
@@ -16,8 +16,8 @@
   },
   {
     "referrer": "Google",
-    "count": 4,
-    "uniques": 3
+    "count": 2,
+    "uniques": 2
   },
   {
     "referrer": "doku.seu.sozvers.at",
@@ -25,7 +25,7 @@
     "uniques": 1
   },
   {
-    "referrer": "reddit.com",
+    "referrer": "Bing",
     "count": 1,
     "uniques": 1
   }
