@@ -2,37 +2,43 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures",
     "title": "GruberMarkus/Set-OutlookSignatures: Central Outlook for Windows management an...",
-    "count": 222,
-    "uniques": 39
+    "count": 316,
+    "uniques": 61
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/releases",
     "title": "Releases · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 188,
-    "uniques": 5
+    "count": 208,
+    "uniques": 6
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/actions/workflows/build,%20draft%20release.yml",
+    "title": "Actions · GruberMarkus/Set-OutlookSignatures",
+    "count": 94,
+    "uniques": 1
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tags",
     "title": "Tags · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 58,
-    "uniques": 3
+    "count": 64,
+    "uniques": 2
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/actions",
     "title": "Actions · GruberMarkus/Set-OutlookSignatures",
-    "count": 43,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/issues",
-    "title": "Issues · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 29,
-    "uniques": 5
+    "count": 54,
+    "uniques": 2
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/develop",
     "title": "GruberMarkus/Set-OutlookSignatures at develop",
-    "count": 21,
+    "count": 22,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/releases/tag/v2.2.0",
+    "title": "Release Update main branch to v2.2.0 (#14) · GruberMarkus/Set-OutlookSignatures",
+    "count": 16,
     "uniques": 2
   },
   {
@@ -42,21 +48,15 @@
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/releases/tag/v2.2.0",
-    "title": "Release Update main branch to v2.2.0 (#14) · GruberMarkus/Set-OutlookSignatures",
-    "count": 12,
-    "uniques": 1
+    "path": "/GruberMarkus/Set-OutlookSignatures/issues",
+    "title": "Issues · GruberMarkus/Set-OutlookSignatures · GitHub",
+    "count": 13,
+    "uniques": 4
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/issues/11",
-    "title": "Exchange Extension Attributes 1 to 15 - empty · Issue #11 · GruberMarkus/Set-...",
+    "path": "/GruberMarkus/Set-OutlookSignatures/pulse",
+    "title": "Pulse · GruberMarkus/Set-OutlookSignatures",
     "count": 10,
-    "uniques": 3
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/releases/tag/v2.1.2",
-    "title": "Release Release v2.1.2 · GruberMarkus/Set-OutlookSignatures",
-    "count": 8,
     "uniques": 2
   }
 ]

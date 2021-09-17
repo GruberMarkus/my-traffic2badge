@@ -2,8 +2,8 @@
   {
     "path": "/GruberMarkus/Build-OSCamForWindows",
     "title": "GruberMarkus/Build-OSCamForWindows: Fully automate building OSCam for Windows...",
-    "count": 24,
-    "uniques": 14
+    "count": 23,
+    "uniques": 13
   },
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/blob/main/Build-OSCamForWindows.ps1",
@@ -20,8 +20,8 @@
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/commit/c4139232a4b248a30fe9af184f35b9921f8d8814",
     "title": "Compile with CONF_DIR=./ · GruberMarkus/Build-OSCamForWindows@c413923 · GitHub",
-    "count": 4,
-    "uniques": 3
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/actions",
