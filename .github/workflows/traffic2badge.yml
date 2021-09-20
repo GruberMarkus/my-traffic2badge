@@ -2,7 +2,7 @@ name: traffic2badge
 on:
   push:
   schedule:
-    - cron: '5/15 * * * *'
+    - cron: '1 0 * * *'
   workflow_dispatch:
 
 jobs:
