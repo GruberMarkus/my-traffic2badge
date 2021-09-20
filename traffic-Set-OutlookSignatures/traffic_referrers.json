@@ -1,23 +1,38 @@
 [
   {
     "referrer": "linkedin.com",
-    "count": 14,
-    "uniques": 12
+    "count": 46,
+    "uniques": 41
+  },
+  {
+    "referrer": "reddit.com",
+    "count": 20,
+    "uniques": 18
   },
   {
     "referrer": "github.com",
-    "count": 14,
-    "uniques": 8
+    "count": 19,
+    "uniques": 11
   },
   {
     "referrer": "img.shields.io",
+    "count": 6,
+    "uniques": 2
+  },
+  {
+    "referrer": "DuckDuckGo",
     "count": 5,
     "uniques": 2
   },
   {
-    "referrer": "doku.seu.sozvers.at",
+    "referrer": "Google",
     "count": 2,
-    "uniques": 1
+    "uniques": 2
+  },
+  {
+    "referrer": "old.reddit.com",
+    "count": 2,
+    "uniques": 2
   },
   {
     "referrer": "Bing",
