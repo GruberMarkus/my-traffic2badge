@@ -1,6 +1,16 @@
 [
   {
     "referrer": "Google",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "Bing",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "sourceforge.net",
     "count": 1,
     "uniques": 1
   }
