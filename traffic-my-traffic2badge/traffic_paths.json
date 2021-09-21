@@ -1,13 +1,61 @@
 [
   {
+    "path": "/GruberMarkus/my-traffic2badge/actions",
+    "title": "Actions · GruberMarkus/my-traffic2badge",
+    "count": 27,
+    "uniques": 1
+  },
+  {
     "path": "/GruberMarkus/my-traffic2badge",
     "title": "GruberMarkus/my-traffic2badge",
-    "count": 3,
-    "uniques": 2
+    "count": 18,
+    "uniques": 3
   },
   {
     "path": "/GruberMarkus/my-traffic2badge/tree/traffic",
     "title": "GruberMarkus/my-traffic2badge at traffic",
+    "count": 11,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/commits/traffic",
+    "title": "Commits · GruberMarkus/my-traffic2badge",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/blob/workflows/.github/workflows/traffic2badge.yml",
+    "title": "my-traffic2badge/traffic2badge.yml at workflows · GruberMarkus/my-traffic2badge",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/branches",
+    "title": "Branches · GruberMarkus/my-traffic2badge",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/edit/workflows/.github/workflows/traffic2badge.yml",
+    "title": "Editing my-traffic2badge/traffic2badge.yml at workflows · GruberMarkus/my-tra...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/actions/workflows/traffic2badge.yml",
+    "title": "Actions · GruberMarkus/my-traffic2badge",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/tree/workflows/.github",
+    "title": "my-traffic2badge/.github at workflows · GruberMarkus/my-traffic2badge",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/tree/workflows/.github/workflows",
+    "title": "my-traffic2badge/.github/workflows at workflows · GruberMarkus/my-traffic2badge",
     "count": 2,
     "uniques": 1
   }
