@@ -6,13 +6,13 @@
   },
   {
     "referrer": "linkedin.com",
-    "count": 50,
-    "uniques": 45
+    "count": 44,
+    "uniques": 41
   },
   {
     "referrer": "github.com",
-    "count": 25,
-    "uniques": 14
+    "count": 20,
+    "uniques": 13
   },
   {
     "referrer": "community.spiceworks.com",
@@ -35,12 +35,12 @@
     "uniques": 4
   },
   {
-    "referrer": "Bing",
+    "referrer": "Google",
     "count": 2,
     "uniques": 2
   },
   {
-    "referrer": "Google",
+    "referrer": "Bing",
     "count": 2,
     "uniques": 2
   },
