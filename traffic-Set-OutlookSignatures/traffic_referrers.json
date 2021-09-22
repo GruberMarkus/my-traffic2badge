@@ -1,21 +1,51 @@
 [
   {
+    "referrer": "reddit.com",
+    "count": 71,
+    "uniques": 65
+  },
+  {
+    "referrer": "linkedin.com",
+    "count": 47,
+    "uniques": 44
+  },
+  {
     "referrer": "github.com",
-    "count": 8,
-    "uniques": 6
+    "count": 20,
+    "uniques": 13
+  },
+  {
+    "referrer": "community.spiceworks.com",
+    "count": 13,
+    "uniques": 12
   },
   {
     "referrer": "img.shields.io",
+    "count": 6,
+    "uniques": 2
+  },
+  {
+    "referrer": "DuckDuckGo",
     "count": 5,
     "uniques": 2
   },
   {
-    "referrer": "linkedin.com",
+    "referrer": "Bing",
     "count": 4,
     "uniques": 4
   },
   {
-    "referrer": "Bing",
+    "referrer": "old.reddit.com",
+    "count": 4,
+    "uniques": 4
+  },
+  {
+    "referrer": "Google",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "referrer": "statics.teams.cdn.office.net",
     "count": 1,
     "uniques": 1
   }
