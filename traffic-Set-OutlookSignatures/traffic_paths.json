@@ -2,14 +2,14 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures",
     "title": "GruberMarkus/Set-OutlookSignatures: Centrally manage and deploy Outlook text ...",
-    "count": 779,
-    "uniques": 438
+    "count": 825,
+    "uniques": 461
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/releases",
     "title": "Releases · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 343,
-    "uniques": 163
+    "count": 414,
+    "uniques": 210
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/actions/workflows/build,%20draft%20release.yml",
@@ -20,43 +20,43 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/actions",
     "title": "Actions · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 56,
-    "uniques": 7
+    "count": 58,
+    "uniques": 9
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src",
     "title": "Set-OutlookSignatures/src at main · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 44,
-    "uniques": 29
+    "count": 46,
+    "uniques": 31
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/releases/tag/v2.3.0-beta1",
-    "title": "Release Release v2.3.0-beta1 · GruberMarkus/Set-OutlookSignatures",
-    "count": 29,
-    "uniques": 19
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/tags",
-    "title": "Tags · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 29,
-    "uniques": 3
+    "title": "Release Release v2.3.0-beta1 · GruberMarkus/Set-OutlookSignatures · GitHub",
+    "count": 31,
+    "uniques": 21
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/src/Set-OutlookSignatures.ps1",
     "title": "Set-OutlookSignatures/Set-OutlookSignatures.ps1 at main · GruberMarkus/Set-Ou...",
-    "count": 28,
-    "uniques": 19
+    "count": 30,
+    "uniques": 21
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/tags",
+    "title": "Tags · GruberMarkus/Set-OutlookSignatures · GitHub",
+    "count": 30,
+    "uniques": 3
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/build",
     "title": "Set-OutlookSignatures/build at main · GruberMarkus/Set-OutlookSignatures · Gi...",
-    "count": 24,
-    "uniques": 20
+    "count": 26,
+    "uniques": 22
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/issues",
-    "title": "Issues · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 20,
-    "uniques": 13
+    "path": "/GruberMarkus/Set-OutlookSignatures/stargazers",
+    "title": "Stargazers · GruberMarkus/Set-OutlookSignatures · GitHub",
+    "count": 23,
+    "uniques": 3
   }
 ]
