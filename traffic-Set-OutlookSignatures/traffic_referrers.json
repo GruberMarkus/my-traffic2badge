@@ -1,13 +1,13 @@
 [
   {
     "referrer": "linkedin.com",
-    "count": 166,
-    "uniques": 144
+    "count": 183,
+    "uniques": 159
   },
   {
     "referrer": "reddit.com",
-    "count": 129,
-    "uniques": 117
+    "count": 133,
+    "uniques": 121
   },
   {
     "referrer": "github.com",
@@ -25,6 +25,11 @@
     "uniques": 6
   },
   {
+    "referrer": "Google",
+    "count": 9,
+    "uniques": 7
+  },
+  {
     "referrer": "lnkd.in",
     "count": 6,
     "uniques": 5
@@ -35,17 +40,12 @@
     "uniques": 2
   },
   {
-    "referrer": "Google",
-    "count": 4,
-    "uniques": 4
-  },
-  {
     "referrer": "Bing",
     "count": 3,
     "uniques": 3
   },
   {
-    "referrer": "doku.seu.sozvers.at",
+    "referrer": "statics.teams.cdn.office.net",
     "count": 1,
     "uniques": 1
   }
