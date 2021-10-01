@@ -1,13 +1,13 @@
 [
   {
     "referrer": "linkedin.com",
-    "count": 167,
-    "uniques": 148
+    "count": 173,
+    "uniques": 152
   },
   {
     "referrer": "reddit.com",
-    "count": 137,
-    "uniques": 124
+    "count": 138,
+    "uniques": 125
   },
   {
     "referrer": "github.com",
@@ -36,13 +36,13 @@
   },
   {
     "referrer": "Bing",
-    "count": 3,
-    "uniques": 3
+    "count": 4,
+    "uniques": 4
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 1,
-    "uniques": 1
+    "count": 2,
+    "uniques": 2
   },
   {
     "referrer": "doku.seu.sozvers.at",
