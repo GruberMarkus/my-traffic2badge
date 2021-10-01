@@ -1,8 +1,8 @@
 [
   {
     "referrer": "linkedin.com",
-    "count": 170,
-    "uniques": 151
+    "count": 167,
+    "uniques": 148
   },
   {
     "referrer": "reddit.com",
@@ -40,7 +40,7 @@
     "uniques": 3
   },
   {
-    "referrer": "statics.teams.cdn.office.net",
+    "referrer": "DuckDuckGo",
     "count": 1,
     "uniques": 1
   },
