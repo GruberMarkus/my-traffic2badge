@@ -1,8 +1,8 @@
 [
   {
     "referrer": "linkedin.com",
-    "count": 161,
-    "uniques": 141
+    "count": 163,
+    "uniques": 143
   },
   {
     "referrer": "reddit.com",
@@ -21,8 +21,8 @@
   },
   {
     "referrer": "lnkd.in",
-    "count": 7,
-    "uniques": 6
+    "count": 8,
+    "uniques": 7
   },
   {
     "referrer": "old.reddit.com",
@@ -45,7 +45,7 @@
     "uniques": 2
   },
   {
-    "referrer": "doku.seu.sozvers.at",
+    "referrer": "messages.google.com",
     "count": 1,
     "uniques": 1
   }
