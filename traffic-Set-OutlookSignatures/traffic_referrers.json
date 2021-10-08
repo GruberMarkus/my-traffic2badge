@@ -1,18 +1,18 @@
 [
   {
     "referrer": "linkedin.com",
-    "count": 162,
-    "uniques": 142
+    "count": 90,
+    "uniques": 82
   },
   {
     "referrer": "reddit.com",
-    "count": 51,
-    "uniques": 47
+    "count": 21,
+    "uniques": 19
   },
   {
     "referrer": "github.com",
-    "count": 19,
-    "uniques": 14
+    "count": 15,
+    "uniques": 10
   },
   {
     "referrer": "Google",
@@ -21,13 +21,13 @@
   },
   {
     "referrer": "lnkd.in",
-    "count": 8,
-    "uniques": 7
+    "count": 5,
+    "uniques": 5
   },
   {
     "referrer": "old.reddit.com",
-    "count": 7,
-    "uniques": 3
+    "count": 5,
+    "uniques": 2
   },
   {
     "referrer": "DuckDuckGo",
@@ -40,12 +40,12 @@
     "uniques": 2
   },
   {
-    "referrer": "community.spiceworks.com",
-    "count": 2,
-    "uniques": 2
+    "referrer": "doku.seu.sozvers.at",
+    "count": 1,
+    "uniques": 1
   },
   {
-    "referrer": "messages.google.com",
+    "referrer": "community.spiceworks.com",
     "count": 1,
     "uniques": 1
   }
