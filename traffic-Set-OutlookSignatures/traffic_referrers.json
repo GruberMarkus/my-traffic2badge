@@ -1,13 +1,13 @@
 [
   {
     "referrer": "linkedin.com",
-    "count": 104,
-    "uniques": 85
+    "count": 87,
+    "uniques": 70
   },
   {
     "referrer": "reddit.com",
-    "count": 41,
-    "uniques": 38
+    "count": 37,
+    "uniques": 34
   },
   {
     "referrer": "out.reddit.com",
@@ -20,14 +20,14 @@
     "uniques": 13
   },
   {
-    "referrer": "Google",
-    "count": 11,
-    "uniques": 10
-  },
-  {
     "referrer": "lnkd.in",
     "count": 7,
     "uniques": 5
+  },
+  {
+    "referrer": "Google",
+    "count": 6,
+    "uniques": 6
   },
   {
     "referrer": "community.spiceworks.com",
