@@ -1,11 +1,11 @@
 [
   {
-    "referrer": "metager.de",
-    "count": 1,
-    "uniques": 1
+    "referrer": "sourceforge.net",
+    "count": 4,
+    "uniques": 2
   },
   {
-    "referrer": "sourceforge.net",
+    "referrer": "metager.de",
     "count": 1,
     "uniques": 1
   }
