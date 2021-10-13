@@ -1,16 +1,16 @@
 [
   {
     "referrer": "trac.streamboard.tv",
-    "count": 39,
+    "count": 38,
     "uniques": 18
   },
   {
-    "referrer": "Google",
+    "referrer": "github.com",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "github.com",
+    "referrer": "Google",
     "count": 1,
     "uniques": 1
   }
