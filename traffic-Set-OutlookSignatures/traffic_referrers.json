@@ -1,13 +1,13 @@
 [
   {
     "referrer": "linkedin.com",
-    "count": 116,
-    "uniques": 92
+    "count": 110,
+    "uniques": 88
   },
   {
     "referrer": "reddit.com",
-    "count": 58,
-    "uniques": 53
+    "count": 57,
+    "uniques": 52
   },
   {
     "referrer": "out.reddit.com",
@@ -41,12 +41,12 @@
   },
   {
     "referrer": "Bing",
-    "count": 3,
-    "uniques": 3
+    "count": 2,
+    "uniques": 2
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 2,
-    "uniques": 2
+    "count": 1,
+    "uniques": 1
   }
 ]
