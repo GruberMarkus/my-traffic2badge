@@ -21,12 +21,12 @@
   },
   {
     "referrer": "community.spiceworks.com",
-    "count": 9,
-    "uniques": 6
+    "count": 8,
+    "uniques": 5
   },
   {
     "referrer": "Google",
-    "count": 8,
+    "count": 7,
     "uniques": 7
   },
   {
@@ -40,12 +40,12 @@
     "uniques": 3
   },
   {
-    "referrer": "Bing",
-    "count": 2,
-    "uniques": 2
+    "referrer": "joinup.ec.europa.eu",
+    "count": 1,
+    "uniques": 1
   },
   {
-    "referrer": "DuckDuckGo",
+    "referrer": "Bing",
     "count": 1,
     "uniques": 1
   }
