@@ -6,13 +6,13 @@
   },
   {
     "referrer": "reddit.com",
-    "count": 67,
-    "uniques": 60
+    "count": 70,
+    "uniques": 63
   },
   {
     "referrer": "out.reddit.com",
-    "count": 36,
-    "uniques": 21
+    "count": 40,
+    "uniques": 22
   },
   {
     "referrer": "github.com",
@@ -25,13 +25,13 @@
     "uniques": 10
   },
   {
-    "referrer": "community.spiceworks.com",
+    "referrer": "lnkd.in",
     "count": 8,
-    "uniques": 5
+    "uniques": 6
   },
   {
-    "referrer": "lnkd.in",
-    "count": 7,
+    "referrer": "community.spiceworks.com",
+    "count": 8,
     "uniques": 5
   },
   {
