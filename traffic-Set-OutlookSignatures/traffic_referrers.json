@@ -1,8 +1,8 @@
 [
   {
     "referrer": "linkedin.com",
-    "count": 116,
-    "uniques": 93
+    "count": 114,
+    "uniques": 91
   },
   {
     "referrer": "reddit.com",
@@ -25,13 +25,13 @@
     "uniques": 10
   },
   {
-    "referrer": "lnkd.in",
-    "count": 8,
-    "uniques": 6
-  },
-  {
     "referrer": "community.spiceworks.com",
     "count": 8,
+    "uniques": 5
+  },
+  {
+    "referrer": "lnkd.in",
+    "count": 7,
     "uniques": 5
   },
   {
@@ -45,7 +45,7 @@
     "uniques": 3
   },
   {
-    "referrer": "DuckDuckGo",
+    "referrer": "Bing",
     "count": 1,
     "uniques": 1
   }
