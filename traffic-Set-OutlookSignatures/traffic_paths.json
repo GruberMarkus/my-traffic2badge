@@ -1,21 +1,21 @@
 [
   {
     "path": "/GruberMarkus/Set-OutlookSignatures",
-    "title": "GitHub - GruberMarkus/Set-OutlookSignatures: Centrally manage and deploy Outl...",
-    "count": 630,
-    "uniques": 389
+    "title": "GruberMarkus/Set-OutlookSignatures: Centrally manage and deploy Outlook text ...",
+    "count": 657,
+    "uniques": 405
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/releases",
     "title": "Releases · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 35,
-    "uniques": 11
+    "count": 37,
+    "uniques": 13
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src",
     "title": "Set-OutlookSignatures/src at main · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 23,
-    "uniques": 21
+    "count": 24,
+    "uniques": 22
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/src/Set-OutlookSignatures.ps1",
@@ -26,8 +26,14 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/docs",
     "title": "Set-OutlookSignatures/docs at main · GruberMarkus/Set-OutlookSignatures · Git...",
-    "count": 15,
+    "count": 16,
     "uniques": 13
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/stargazers",
+    "title": "Stargazers · GruberMarkus/Set-OutlookSignatures",
+    "count": 16,
+    "uniques": 1
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/network/members",
@@ -36,15 +42,9 @@
     "uniques": 3
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/stargazers",
-    "title": "Stargazers · GruberMarkus/Set-OutlookSignatures",
-    "count": 15,
-    "uniques": 1
-  },
-  {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/build",
     "title": "Set-OutlookSignatures/build at main · GruberMarkus/Set-OutlookSignatures · Gi...",
-    "count": 11,
+    "count": 12,
     "uniques": 10
   },
   {
