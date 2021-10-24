@@ -1,28 +1,28 @@
 [
   {
     "referrer": "linkedin.com",
-    "count": 59,
-    "uniques": 52
+    "count": 44,
+    "uniques": 40
   },
   {
     "referrer": "reddit.com",
-    "count": 43,
-    "uniques": 37
-  },
-  {
-    "referrer": "github.com",
-    "count": 24,
-    "uniques": 16
+    "count": 39,
+    "uniques": 35
   },
   {
     "referrer": "Google",
-    "count": 18,
-    "uniques": 17
+    "count": 17,
+    "uniques": 16
+  },
+  {
+    "referrer": "github.com",
+    "count": 16,
+    "uniques": 13
   },
   {
     "referrer": "out.reddit.com",
-    "count": 16,
-    "uniques": 6
+    "count": 10,
+    "uniques": 4
   },
   {
     "referrer": "joinup.ec.europa.eu",
@@ -30,14 +30,14 @@
     "uniques": 3
   },
   {
-    "referrer": "community.spiceworks.com",
-    "count": 5,
-    "uniques": 4
+    "referrer": "lnkd.in",
+    "count": 3,
+    "uniques": 3
   },
   {
-    "referrer": "lnkd.in",
-    "count": 4,
-    "uniques": 4
+    "referrer": "community.spiceworks.com",
+    "count": 3,
+    "uniques": 2
   },
   {
     "referrer": "Bing",
