@@ -2,7 +2,7 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures",
     "title": "GruberMarkus/Set-OutlookSignatures: Centrally manage and deploy Outlook text ...",
-    "count": 238,
+    "count": 241,
     "uniques": 123
   },
   {
@@ -48,15 +48,15 @@
     "uniques": 6
   },
   {
+    "path": "/GruberMarkus/Set-OutlookSignatures/stargazers",
+    "title": "Stargazers · GruberMarkus/Set-OutlookSignatures",
+    "count": 8,
+    "uniques": 1
+  },
+  {
     "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/download%20information.txt",
     "title": "Set-OutlookSignatures/download information.txt at main · GruberMarkus/Set-Out...",
     "count": 7,
     "uniques": 5
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/stargazers",
-    "title": "Stargazers · GruberMarkus/Set-OutlookSignatures",
-    "count": 7,
-    "uniques": 1
   }
 ]
