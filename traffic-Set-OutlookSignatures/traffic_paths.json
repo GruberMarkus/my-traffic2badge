@@ -2,13 +2,13 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures",
     "title": "GruberMarkus/Set-OutlookSignatures: Centrally manage and deploy Outlook text ...",
-    "count": 248,
-    "uniques": 123
+    "count": 251,
+    "uniques": 125
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src",
     "title": "Set-OutlookSignatures/src at main · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 23,
+    "count": 26,
     "uniques": 16
   },
   {
@@ -26,8 +26,14 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src/templates",
     "title": "Set-OutlookSignatures/src/templates at main · GruberMarkus/Set-OutlookSignatu...",
-    "count": 16,
+    "count": 18,
     "uniques": 7
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/releases/tag/v2.3.0",
+    "title": "Release Release v2.3.0 · GruberMarkus/Set-OutlookSignatures · GitHub",
+    "count": 11,
+    "uniques": 6
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/build",
@@ -38,25 +44,19 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/docs",
     "title": "Set-OutlookSignatures/docs at main · GruberMarkus/Set-OutlookSignatures · Git...",
-    "count": 10,
-    "uniques": 7
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/releases/tag/v2.3.0",
-    "title": "Release Release v2.3.0 · GruberMarkus/Set-OutlookSignatures · GitHub",
     "count": 9,
-    "uniques": 6
+    "uniques": 7
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/stargazers",
     "title": "Stargazers · GruberMarkus/Set-OutlookSignatures",
-    "count": 8,
+    "count": 9,
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/download%20information.txt",
-    "title": "Set-OutlookSignatures/download information.txt at main · GruberMarkus/Set-Out...",
-    "count": 7,
-    "uniques": 5
+    "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src/templates/Signatures%20HTML",
+    "title": "Set-OutlookSignatures/src/templates/Signatures HTML at main · GruberMarkus/Se...",
+    "count": 8,
+    "uniques": 4
   }
 ]
