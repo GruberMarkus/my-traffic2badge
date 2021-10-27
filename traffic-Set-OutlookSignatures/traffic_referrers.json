@@ -1,12 +1,12 @@
 [
   {
     "referrer": "github.com",
-    "count": 70,
-    "uniques": 10
+    "count": 69,
+    "uniques": 9
   },
   {
     "referrer": "linkedin.com",
-    "count": 28,
+    "count": 27,
     "uniques": 21
   },
   {
@@ -16,17 +16,17 @@
   },
   {
     "referrer": "reddit.com",
-    "count": 18,
-    "uniques": 16
+    "count": 13,
+    "uniques": 12
   },
   {
     "referrer": "joinup.ec.europa.eu",
-    "count": 11,
-    "uniques": 5
+    "count": 10,
+    "uniques": 4
   },
   {
     "referrer": "out.reddit.com",
-    "count": 8,
+    "count": 7,
     "uniques": 3
   },
   {
@@ -40,12 +40,12 @@
     "uniques": 2
   },
   {
-    "referrer": "cn.bing.com",
+    "referrer": "Bing",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "Bing",
+    "referrer": "cn.bing.com",
     "count": 1,
     "uniques": 1
   }
