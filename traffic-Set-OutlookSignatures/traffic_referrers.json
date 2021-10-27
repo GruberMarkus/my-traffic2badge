@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 72,
+    "count": 69,
     "uniques": 9
   },
   {
     "referrer": "linkedin.com",
-    "count": 39,
-    "uniques": 26
+    "count": 28,
+    "uniques": 21
   },
   {
     "referrer": "Google",
@@ -21,8 +21,8 @@
   },
   {
     "referrer": "joinup.ec.europa.eu",
-    "count": 11,
-    "uniques": 5
+    "count": 10,
+    "uniques": 4
   },
   {
     "referrer": "out.reddit.com",
@@ -30,14 +30,14 @@
     "uniques": 3
   },
   {
-    "referrer": "account.activedirectory.windowsazure.com",
-    "count": 5,
-    "uniques": 4
-  },
-  {
     "referrer": "lnkd.in",
     "count": 3,
     "uniques": 3
+  },
+  {
+    "referrer": "account.activedirectory.windowsazure.com",
+    "count": 2,
+    "uniques": 2
   },
   {
     "referrer": "Bing",
@@ -45,7 +45,7 @@
     "uniques": 1
   },
   {
-    "referrer": "rave.office.net",
+    "referrer": "cn.bing.com",
     "count": 1,
     "uniques": 1
   }
