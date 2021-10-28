@@ -1,6 +1,6 @@
 {
-  "count": 2750,
-  "uniques": 515,
+  "count": 2884,
+  "uniques": 540,
   "clones": [
     {
       "timestamp": "2021-10-21T00:00:00Z",
@@ -24,8 +24,8 @@
     },
     {
       "timestamp": "2021-10-25T00:00:00Z",
-      "count": 55,
-      "uniques": 20
+      "count": 189,
+      "uniques": 45
     },
     {
       "timestamp": "2021-10-26T00:00:00Z",
