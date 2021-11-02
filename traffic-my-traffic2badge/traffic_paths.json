@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "path": "/GruberMarkus/my-traffic2badge",
+    "title": "GruberMarkus/my-traffic2badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/actions",
+    "title": "Actions · GruberMarkus/my-traffic2badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/actions/runs/1386174915",
+    "title": "Merge pull request #3 from GruberMarkus/dependabot/github_actions/actions/che...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/tree/traffic",
+    "title": "GruberMarkus/my-traffic2badge at traffic",
+    "count": 1,
+    "uniques": 1
+  }
+]
