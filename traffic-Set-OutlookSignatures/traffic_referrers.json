@@ -6,13 +6,13 @@
   },
   {
     "referrer": "linkedin.com",
-    "count": 30,
-    "uniques": 15
+    "count": 27,
+    "uniques": 12
   },
   {
     "referrer": "Google",
-    "count": 11,
-    "uniques": 8
+    "count": 9,
+    "uniques": 6
   },
   {
     "referrer": "joinup.ec.europa.eu",
@@ -21,21 +21,16 @@
   },
   {
     "referrer": "account.activedirectory.windowsazure.com",
-    "count": 4,
-    "uniques": 3
-  },
-  {
-    "referrer": "reddit.com",
-    "count": 2,
+    "count": 3,
     "uniques": 2
   },
   {
-    "referrer": "rave.office.net",
+    "referrer": "reddit.com",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "lnkd.in",
+    "referrer": "rave.office.net",
     "count": 1,
     "uniques": 1
   }
