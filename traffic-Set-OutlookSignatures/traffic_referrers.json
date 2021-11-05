@@ -6,13 +6,18 @@
   },
   {
     "referrer": "linkedin.com",
-    "count": 25,
+    "count": 26,
     "uniques": 10
   },
   {
     "referrer": "joinup.ec.europa.eu",
     "count": 19,
     "uniques": 4
+  },
+  {
+    "referrer": "Bing",
+    "count": 8,
+    "uniques": 2
   },
   {
     "referrer": "Google",
@@ -25,12 +30,12 @@
     "uniques": 2
   },
   {
-    "referrer": "rave.office.net",
-    "count": 1,
-    "uniques": 1
+    "referrer": "reddit.com",
+    "count": 2,
+    "uniques": 2
   },
   {
-    "referrer": "reddit.com",
+    "referrer": "rave.office.net",
     "count": 1,
     "uniques": 1
   }
