@@ -2,7 +2,7 @@
   {
     "path": "/GruberMarkus/my-traffic2badge",
     "title": "GruberMarkus/my-traffic2badge",
-    "count": 3,
+    "count": 2,
     "uniques": 1
   },
   {
@@ -12,26 +12,14 @@
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/my-traffic2badge/tree/traffic",
-    "title": "GruberMarkus/my-traffic2badge at traffic",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/my-traffic2badge/actions",
-    "title": "Actions · GruberMarkus/my-traffic2badge",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/my-traffic2badge/actions/runs/1386174915",
-    "title": "Merge pull request #3 from GruberMarkus/dependabot/github_actions/actions/che...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/GruberMarkus/my-traffic2badge/pull/4",
     "title": "build(deps): bump actions/checkout from 2.3.5 to 2.4.0 by dependabot[bot] · P...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/tree/traffic",
+    "title": "GruberMarkus/my-traffic2badge at traffic",
     "count": 1,
     "uniques": 1
   },
