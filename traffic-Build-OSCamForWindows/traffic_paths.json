@@ -2,26 +2,26 @@
   {
     "path": "/GruberMarkus/Build-OSCamForWindows",
     "title": "GitHub - GruberMarkus/Build-OSCamForWindows: Fully automate building OSCam fo...",
-    "count": 58,
-    "uniques": 22
+    "count": 55,
+    "uniques": 21
   },
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/blob/main/Build-OSCamForWindows.ps1",
     "title": "Build-OSCamForWindows/Build-OSCamForWindows.ps1 at main · GruberMarkus/Build-...",
-    "count": 49,
-    "uniques": 16
+    "count": 42,
+    "uniques": 15
   },
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/issues",
     "title": "Issues · GruberMarkus/Build-OSCamForWindows · GitHub",
-    "count": 15,
-    "uniques": 5
+    "count": 13,
+    "uniques": 4
   },
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/pulls",
     "title": "Pull requests · GruberMarkus/Build-OSCamForWindows · GitHub",
-    "count": 11,
-    "uniques": 5
+    "count": 9,
+    "uniques": 4
   },
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/actions",
@@ -36,16 +36,16 @@
     "uniques": 2
   },
   {
-    "path": "/GruberMarkus/Build-OSCamForWindows/issues/1",
-    "title": "wrong conf dir is used · Issue #1 · GruberMarkus/Build-OSCamForWindows · GitHub",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/GruberMarkus/Build-OSCamForWindows/branches",
     "title": "Branches · GruberMarkus/Build-OSCamForWindows · GitHub",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Build-OSCamForWindows/issues/1",
+    "title": "wrong conf dir is used · Issue #1 · GruberMarkus/Build-OSCamForWindows · GitHub",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/branches/all",
