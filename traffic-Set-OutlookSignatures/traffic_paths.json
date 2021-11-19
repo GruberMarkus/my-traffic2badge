@@ -2,14 +2,14 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures",
     "title": "GruberMarkus/Set-OutlookSignatures: Centrally manage and deploy Outlook text ...",
-    "count": 144,
-    "uniques": 50
+    "count": 121,
+    "uniques": 45
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/releases",
     "title": "Releases · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 20,
-    "uniques": 7
+    "count": 12,
+    "uniques": 6
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src",
@@ -18,28 +18,10 @@
     "uniques": 7
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/tags",
-    "title": "Tags · GruberMarkus/Set-OutlookSignatures",
-    "count": 11,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/releases/tag/v2.3.1",
-    "title": "Release Release v2.3.1 · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 6,
-    "uniques": 3
-  },
-  {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src/docs",
     "title": "Set-OutlookSignatures/src/docs at main · GruberMarkus/Set-OutlookSignatures ·...",
     "count": 6,
     "uniques": 3
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/actions",
-    "title": "Actions · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 5,
-    "uniques": 2
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/docs",
@@ -58,5 +40,23 @@
     "title": "File Finder · GitHub",
     "count": 3,
     "uniques": 3
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src/logo",
+    "title": "Set-OutlookSignatures/src/logo at main · GruberMarkus/Set-OutlookSignatures ·...",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/network/members",
+    "title": "Forks · GruberMarkus/Set-OutlookSignatures · GitHub",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/stargazers",
+    "title": "Stargazers · GruberMarkus/Set-OutlookSignatures",
+    "count": 3,
+    "uniques": 1
   }
 ]
