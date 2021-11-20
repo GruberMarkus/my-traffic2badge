@@ -2,37 +2,19 @@
   {
     "path": "/GruberMarkus/Build-OSCamForWindows",
     "title": "GruberMarkus/Build-OSCamForWindows: Fully automate building OSCam for Windows...",
-    "count": 44,
-    "uniques": 17
+    "count": 38,
+    "uniques": 16
   },
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/blob/main/Build-OSCamForWindows.ps1",
     "title": "Build-OSCamForWindows/Build-OSCamForWindows.ps1 at main · GruberMarkus/Build-...",
-    "count": 31,
+    "count": 27,
     "uniques": 10
   },
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/issues",
     "title": "Issues · GruberMarkus/Build-OSCamForWindows · GitHub",
-    "count": 16,
-    "uniques": 4
-  },
-  {
-    "path": "/GruberMarkus/Build-OSCamForWindows/pulls",
-    "title": "Pull requests · GruberMarkus/Build-OSCamForWindows · GitHub",
-    "count": 6,
-    "uniques": 3
-  },
-  {
-    "path": "/GruberMarkus/Build-OSCamForWindows/actions",
-    "title": "Actions · GruberMarkus/Build-OSCamForWindows · GitHub",
-    "count": 5,
-    "uniques": 3
-  },
-  {
-    "path": "/GruberMarkus/Build-OSCamForWindows/commit/c4139232a4b248a30fe9af184f35b9921f8d8814",
-    "title": "Compile with CONF_DIR=./ · GruberMarkus/Build-OSCamForWindows@c413923 · GitHub",
-    "count": 5,
+    "count": 14,
     "uniques": 3
   },
   {
@@ -42,10 +24,28 @@
     "uniques": 2
   },
   {
+    "path": "/GruberMarkus/Build-OSCamForWindows/pulls",
+    "title": "Pull requests · GruberMarkus/Build-OSCamForWindows · GitHub",
+    "count": 5,
+    "uniques": 2
+  },
+  {
+    "path": "/GruberMarkus/Build-OSCamForWindows/actions",
+    "title": "Actions · GruberMarkus/Build-OSCamForWindows · GitHub",
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/GruberMarkus/Build-OSCamForWindows/commit/c4139232a4b248a30fe9af184f35b9921f8d8814",
+    "title": "Compile with CONF_DIR=./ · GruberMarkus/Build-OSCamForWindows@c413923 · GitHub",
+    "count": 3,
+    "uniques": 3
+  },
+  {
     "path": "/GruberMarkus/Build-OSCamForWindows/issues/1",
     "title": "wrong conf dir is used · Issue #1 · GruberMarkus/Build-OSCamForWindows · GitHub",
-    "count": 4,
-    "uniques": 3
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/branches/all",
