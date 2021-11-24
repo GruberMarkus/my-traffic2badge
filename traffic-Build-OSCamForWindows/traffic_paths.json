@@ -2,37 +2,19 @@
   {
     "path": "/GruberMarkus/Build-OSCamForWindows",
     "title": "GruberMarkus/Build-OSCamForWindows: Fully automate building OSCam for Windows...",
-    "count": 38,
-    "uniques": 15
+    "count": 31,
+    "uniques": 13
   },
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/blob/main/Build-OSCamForWindows.ps1",
     "title": "Build-OSCamForWindows/Build-OSCamForWindows.ps1 at main · GruberMarkus/Build-...",
-    "count": 29,
-    "uniques": 10
+    "count": 24,
+    "uniques": 8
   },
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/issues",
     "title": "Issues · GruberMarkus/Build-OSCamForWindows · GitHub",
-    "count": 14,
-    "uniques": 3
-  },
-  {
-    "path": "/GruberMarkus/Build-OSCamForWindows/branches",
-    "title": "Branches · GruberMarkus/Build-OSCamForWindows · GitHub",
-    "count": 5,
-    "uniques": 2
-  },
-  {
-    "path": "/GruberMarkus/Build-OSCamForWindows/pulls",
-    "title": "Pull requests · GruberMarkus/Build-OSCamForWindows · GitHub",
-    "count": 5,
-    "uniques": 2
-  },
-  {
-    "path": "/GruberMarkus/Build-OSCamForWindows/actions",
-    "title": "Actions · GruberMarkus/Build-OSCamForWindows · GitHub",
-    "count": 4,
+    "count": 13,
     "uniques": 2
   },
   {
@@ -54,9 +36,27 @@
     "uniques": 2
   },
   {
-    "path": "/GruberMarkus/Build-OSCamForWindows/branches/all",
-    "title": "Branches · GruberMarkus/Build-OSCamForWindows · GitHub",
+    "path": "/GruberMarkus/Build-OSCamForWindows/branches",
+    "title": "Branches · GruberMarkus/Build-OSCamForWindows",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Build-OSCamForWindows/actions",
+    "title": "Actions · GruberMarkus/Build-OSCamForWindows · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Build-OSCamForWindows/commits",
+    "title": "Commits · GruberMarkus/Build-OSCamForWindows · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Build-OSCamForWindows/compare",
+    "title": "Compare · GruberMarkus/Build-OSCamForWindows · GitHub",
+    "count": 1,
     "uniques": 1
   }
 ]
