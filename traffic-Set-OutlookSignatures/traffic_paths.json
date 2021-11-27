@@ -2,25 +2,25 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures",
     "title": "GruberMarkus/Set-OutlookSignatures: Centrally manage and deploy Outlook text ...",
-    "count": 157,
-    "uniques": 54
+    "count": 168,
+    "uniques": 56
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/releases",
     "title": "Releases · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 43,
+    "count": 70,
     "uniques": 6
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tags",
     "title": "Tags · GruberMarkus/Set-OutlookSignatures",
-    "count": 14,
+    "count": 20,
     "uniques": 1
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src",
     "title": "Set-OutlookSignatures/src at main · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 13,
+    "count": 14,
     "uniques": 12
   },
   {
@@ -28,6 +28,12 @@
     "title": "Release Release v2.4.0-alpha.30 · GruberMarkus/Set-OutlookSignatures · GitHub",
     "count": 8,
     "uniques": 3
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/src/Set-OutlookSignatures.ps1",
+    "title": "Set-OutlookSignatures/Set-OutlookSignatures.ps1 at main · GruberMarkus/Set-Ou...",
+    "count": 6,
+    "uniques": 4
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/docs",
@@ -40,12 +46,6 @@
     "title": "File Finder · GitHub",
     "count": 6,
     "uniques": 3
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/src/Set-OutlookSignatures.ps1",
-    "title": "Set-OutlookSignatures/Set-OutlookSignatures.ps1 at main · GruberMarkus/Set-Ou...",
-    "count": 5,
-    "uniques": 4
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/pulls",
