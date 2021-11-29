@@ -16,18 +16,13 @@
   },
   {
     "referrer": "github.com",
-    "count": 60,
-    "uniques": 22
+    "count": 56,
+    "uniques": 20
   },
   {
     "referrer": "Google",
-    "count": 36,
-    "uniques": 12
-  },
-  {
-    "referrer": "joinup.ec.europa.eu",
-    "count": 4,
-    "uniques": 3
+    "count": 30,
+    "uniques": 9
   },
   {
     "referrer": "community.spiceworks.com",
@@ -36,6 +31,11 @@
   },
   {
     "referrer": "teams.microsoft.com",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "joinup.ec.europa.eu",
     "count": 2,
     "uniques": 2
   },

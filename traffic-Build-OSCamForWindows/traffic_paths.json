@@ -8,14 +8,8 @@
   {
     "path": "/GruberMarkus/Build-OSCamForWindows",
     "title": "GruberMarkus/Build-OSCamForWindows: Fully automate building OSCam for Windows...",
-    "count": 32,
-    "uniques": 13
-  },
-  {
-    "path": "/GruberMarkus/Build-OSCamForWindows/issues",
-    "title": "Issues · GruberMarkus/Build-OSCamForWindows",
-    "count": 6,
-    "uniques": 1
+    "count": 25,
+    "uniques": 11
   },
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/blob/c4139232a4b248a30fe9af184f35b9921f8d8814/Build-OSCamForWindows.ps1",
@@ -26,19 +20,7 @@
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/commit/c4139232a4b248a30fe9af184f35b9921f8d8814",
     "title": "Compile with CONF_DIR=./ · GruberMarkus/Build-OSCamForWindows@c413923 · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/GruberMarkus/Build-OSCamForWindows/branches",
-    "title": "Branches · GruberMarkus/Build-OSCamForWindows",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/Build-OSCamForWindows/issues/1",
-    "title": "wrong conf dir is used · Issue #1 · GruberMarkus/Build-OSCamForWindows",
-    "count": 2,
+    "count": 1,
     "uniques": 1
   },
   {
