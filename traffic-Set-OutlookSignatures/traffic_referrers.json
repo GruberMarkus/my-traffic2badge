@@ -1,13 +1,13 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 376,
-    "uniques": 243
+    "count": 379,
+    "uniques": 246
   },
   {
     "referrer": "linkedin.com",
-    "count": 323,
-    "uniques": 201
+    "count": 324,
+    "uniques": 202
   },
   {
     "referrer": "out.reddit.com",
@@ -16,8 +16,8 @@
   },
   {
     "referrer": "github.com",
-    "count": 74,
-    "uniques": 25
+    "count": 78,
+    "uniques": 26
   },
   {
     "referrer": "Google",
@@ -25,14 +25,14 @@
     "uniques": 12
   },
   {
+    "referrer": "old.reddit.com",
+    "count": 8,
+    "uniques": 4
+  },
+  {
     "referrer": "lnkd.in",
     "count": 7,
     "uniques": 6
-  },
-  {
-    "referrer": "old.reddit.com",
-    "count": 7,
-    "uniques": 4
   },
   {
     "referrer": "teams.microsoft.com",
