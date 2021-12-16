@@ -1,23 +1,23 @@
 [
   {
-    "referrer": "linkedin.com",
-    "count": 245,
-    "uniques": 158
+    "referrer": "reddit.com",
+    "count": 292,
+    "uniques": 175
   },
   {
-    "referrer": "reddit.com",
-    "count": 240,
-    "uniques": 145
+    "referrer": "linkedin.com",
+    "count": 261,
+    "uniques": 170
   },
   {
     "referrer": "Google",
-    "count": 98,
-    "uniques": 27
+    "count": 123,
+    "uniques": 35
   },
   {
     "referrer": "github.com",
-    "count": 20,
-    "uniques": 14
+    "count": 25,
+    "uniques": 17
   },
   {
     "referrer": "lnkd.in",
@@ -30,22 +30,22 @@
     "uniques": 7
   },
   {
+    "referrer": "Bing",
+    "count": 9,
+    "uniques": 2
+  },
+  {
     "referrer": "awesomeopensource.com",
     "count": 8,
     "uniques": 2
   },
   {
-    "referrer": "Bing",
+    "referrer": "libhunt.com",
     "count": 3,
     "uniques": 1
   },
   {
     "referrer": "teams.microsoft.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "doku.seu.sozvers.at",
     "count": 1,
     "uniques": 1
   }
