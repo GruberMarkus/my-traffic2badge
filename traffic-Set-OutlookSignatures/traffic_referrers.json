@@ -1,23 +1,23 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 334,
-    "uniques": 201
+    "count": 376,
+    "uniques": 239
   },
   {
     "referrer": "linkedin.com",
-    "count": 268,
-    "uniques": 177
+    "count": 277,
+    "uniques": 181
   },
   {
     "referrer": "Google",
-    "count": 131,
-    "uniques": 38
+    "count": 134,
+    "uniques": 40
   },
   {
     "referrer": "github.com",
-    "count": 27,
-    "uniques": 21
+    "count": 31,
+    "uniques": 22
   },
   {
     "referrer": "Bing",
@@ -45,7 +45,7 @@
     "uniques": 1
   },
   {
-    "referrer": "statics.teams.cdn.office.net",
+    "referrer": "jira.nintendo.eu",
     "count": 1,
     "uniques": 1
   }

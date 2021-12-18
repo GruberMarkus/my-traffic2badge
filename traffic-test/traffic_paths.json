@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "path": "/GruberMarkus/test/blob/main/LICENSE.txt",
+    "title": "test/LICENSE.txt at main · GruberMarkus/test",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/test/tree/main",
+    "title": "GruberMarkus/test",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/test",
+    "title": "GruberMarkus/test",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/test/community/license/new",
+    "title": "Add a license to GruberMarkus/test",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/test/edit/main/LICENSE.txt",
+    "title": "Editing test/LICENSE.txt at main · GruberMarkus/test",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/test/new/main",
+    "title": "New File",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/gruberMarkus/test",
+    "title": "GruberMarkus/test",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/test/blob/main/docs/LICENSE.txt",
+    "title": "test/LICENSE.txt at main · GruberMarkus/test",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/test/blob/main/LICENSE",
+    "title": "test/LICENSE at main · GruberMarkus/test",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/test/delete/main/LICENSE.txt",
+    "title": "Deleting test/LICENSE.txt at main · GruberMarkus/test",
+    "count": 1,
+    "uniques": 1
+  }
+]
