@@ -1,18 +1,18 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 376,
+    "count": 375,
     "uniques": 239
   },
   {
     "referrer": "linkedin.com",
-    "count": 277,
-    "uniques": 181
+    "count": 273,
+    "uniques": 179
   },
   {
     "referrer": "Google",
-    "count": 134,
-    "uniques": 40
+    "count": 133,
+    "uniques": 39
   },
   {
     "referrer": "github.com",
@@ -26,8 +26,8 @@
   },
   {
     "referrer": "lnkd.in",
-    "count": 10,
-    "uniques": 10
+    "count": 9,
+    "uniques": 9
   },
   {
     "referrer": "old.reddit.com",
