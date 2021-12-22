@@ -1,23 +1,23 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 401,
-    "uniques": 251
+    "count": 397,
+    "uniques": 249
   },
   {
     "referrer": "linkedin.com",
-    "count": 294,
-    "uniques": 198
+    "count": 292,
+    "uniques": 196
   },
   {
     "referrer": "Google",
-    "count": 158,
-    "uniques": 42
+    "count": 139,
+    "uniques": 38
   },
   {
     "referrer": "github.com",
-    "count": 57,
-    "uniques": 25
+    "count": 56,
+    "uniques": 24
   },
   {
     "referrer": "Bing",
