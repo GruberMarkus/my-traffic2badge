@@ -454,36 +454,6 @@
 [![clones per week](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-Surface-Pen-PowerPoint-Clicker/clones_per_week.svg)](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic#-Surface-Pen-PowerPoint-Clicker)
 ```
 
-## 📚 [test](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic/traffic-test)
-
-### 📷 Badges without link of [test](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic/traffic-test)
-
-![views](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-test/views.svg)
-![views per week](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-test/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-test/clones.svg)
-![clones per week](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-test/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-test/views.svg)
-![views per week](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-test/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-test/clones.svg)
-![clones per week](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-test/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [test](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic/traffic-test)
-
-[![views](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-test/views.svg)](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic#-test)
-[![views per week](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-test/views_per_week.svg)](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic#-test)
-[![clones](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-test/clones.svg)](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic#-test)
-[![clones per week](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-test/clones_per_week.svg)](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic#-test)
-
-```markdown
-[![views](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-test/views.svg)](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic#-test)
-[![views per week](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-test/views_per_week.svg)](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic#-test)
-[![clones](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-test/clones.svg)](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic#-test)
-[![clones per week](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-test/clones_per_week.svg)](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic#-test)
-```
-
 ## 📚 [update-ffmpeg](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic/traffic-update-ffmpeg)
 
 ### 📷 Badges without link of [update-ffmpeg](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic/traffic-update-ffmpeg)
