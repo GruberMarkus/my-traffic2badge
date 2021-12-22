@@ -1,13 +1,13 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 397,
-    "uniques": 249
+    "count": 405,
+    "uniques": 253
   },
   {
     "referrer": "linkedin.com",
-    "count": 292,
-    "uniques": 196
+    "count": 301,
+    "uniques": 199
   },
   {
     "referrer": "Google",
@@ -16,8 +16,18 @@
   },
   {
     "referrer": "github.com",
-    "count": 56,
-    "uniques": 24
+    "count": 71,
+    "uniques": 28
+  },
+  {
+    "referrer": "statics.teams.cdn.office.net",
+    "count": 18,
+    "uniques": 2
+  },
+  {
+    "referrer": "old.reddit.com",
+    "count": 12,
+    "uniques": 8
   },
   {
     "referrer": "Bing",
@@ -30,11 +40,6 @@
     "uniques": 9
   },
   {
-    "referrer": "old.reddit.com",
-    "count": 8,
-    "uniques": 7
-  },
-  {
     "referrer": "awesomeopensource.com",
     "count": 8,
     "uniques": 2
@@ -42,11 +47,6 @@
   {
     "referrer": "community.spiceworks.com",
     "count": 5,
-    "uniques": 1
-  },
-  {
-    "referrer": "libhunt.com",
-    "count": 3,
     "uniques": 1
   }
 ]
