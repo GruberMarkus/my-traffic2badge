@@ -1,18 +1,18 @@
 [
   {
     "referrer": "reddit.com",
-    "count": 347,
-    "uniques": 208
+    "count": 254,
+    "uniques": 152
   },
   {
     "referrer": "linkedin.com",
-    "count": 192,
-    "uniques": 139
+    "count": 132,
+    "uniques": 95
   },
   {
     "referrer": "Google",
-    "count": 120,
-    "uniques": 46
+    "count": 106,
+    "uniques": 42
   },
   {
     "referrer": "github.com",
@@ -30,14 +30,14 @@
     "uniques": 4
   },
   {
-    "referrer": "old.reddit.com",
-    "count": 9,
-    "uniques": 5
-  },
-  {
     "referrer": "jira.nintendo.eu",
     "count": 8,
     "uniques": 1
+  },
+  {
+    "referrer": "old.reddit.com",
+    "count": 6,
+    "uniques": 2
   },
   {
     "referrer": "libhunt.com",

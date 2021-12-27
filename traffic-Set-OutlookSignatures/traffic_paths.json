@@ -2,26 +2,14 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures",
     "title": "GruberMarkus/Set-OutlookSignatures: Centrally manage and deploy Outlook text ...",
-    "count": 1024,
-    "uniques": 643
+    "count": 742,
+    "uniques": 445
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src",
     "title": "Set-OutlookSignatures/src at main · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 70,
-    "uniques": 39
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/docs",
-    "title": "Set-OutlookSignatures/docs at main · GruberMarkus/Set-OutlookSignatures · Git...",
-    "count": 39,
-    "uniques": 27
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/releases",
-    "title": "Releases · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 35,
-    "uniques": 20
+    "count": 58,
+    "uniques": 30
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/issues",
@@ -30,33 +18,45 @@
     "uniques": 11
   },
   {
+    "path": "/GruberMarkus/Set-OutlookSignatures/releases",
+    "title": "Releases · GruberMarkus/Set-OutlookSignatures · GitHub",
+    "count": 29,
+    "uniques": 15
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/docs",
+    "title": "Set-OutlookSignatures/docs at main · GruberMarkus/Set-OutlookSignatures · Git...",
+    "count": 28,
+    "uniques": 17
+  },
+  {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/build",
     "title": "Set-OutlookSignatures/build at main · GruberMarkus/Set-OutlookSignatures · Gi...",
-    "count": 29,
-    "uniques": 23
+    "count": 19,
+    "uniques": 14
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/src/Set-OutlookSignatures.ps1",
     "title": "Set-OutlookSignatures/Set-OutlookSignatures.ps1 at main · GruberMarkus/Set-Ou...",
-    "count": 21,
-    "uniques": 18
+    "count": 18,
+    "uniques": 15
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src/sample%20code",
     "title": "Set-OutlookSignatures/src/sample code at main · GruberMarkus/Set-OutlookSigna...",
-    "count": 21,
-    "uniques": 15
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src/templates",
-    "title": "Set-OutlookSignatures/src/templates at main · GruberMarkus/Set-OutlookSignatu...",
-    "count": 20,
-    "uniques": 16
+    "count": 17,
+    "uniques": 11
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/issues/27",
     "title": "Outlook 2013 registry keys and embedded images (original title: 'Nothing happ...",
     "count": 17,
     "uniques": 5
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/issues/26",
+    "title": "$CURRENTUSERTELEPHONE$ not being populated from graph · Issue #26 · GruberMar...",
+    "count": 14,
+    "uniques": 1
   }
 ]
