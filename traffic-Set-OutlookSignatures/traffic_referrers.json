@@ -6,18 +6,18 @@
   },
   {
     "referrer": "github.com",
-    "count": 86,
-    "uniques": 24
-  },
-  {
-    "referrer": "linkedin.com",
-    "count": 71,
-    "uniques": 54
+    "count": 91,
+    "uniques": 29
   },
   {
     "referrer": "Google",
-    "count": 67,
-    "uniques": 26
+    "count": 75,
+    "uniques": 29
+  },
+  {
+    "referrer": "linkedin.com",
+    "count": 73,
+    "uniques": 55
   },
   {
     "referrer": "statics.teams.cdn.office.net",
