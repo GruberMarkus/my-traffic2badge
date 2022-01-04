@@ -1,28 +1,23 @@
 [
   {
-    "referrer": "github.com",
-    "count": 62,
-    "uniques": 25
-  },
-  {
     "referrer": "Google",
     "count": 61,
     "uniques": 21
   },
   {
+    "referrer": "github.com",
+    "count": 47,
+    "uniques": 21
+  },
+  {
     "referrer": "linkedin.com",
-    "count": 39,
-    "uniques": 30
+    "count": 30,
+    "uniques": 25
   },
   {
     "referrer": "reddit.com",
-    "count": 20,
-    "uniques": 9
-  },
-  {
-    "referrer": "statics.teams.cdn.office.net",
-    "count": 17,
-    "uniques": 1
+    "count": 12,
+    "uniques": 6
   },
   {
     "referrer": "DuckDuckGo",
@@ -31,12 +26,7 @@
   },
   {
     "referrer": "jira.nintendo.eu",
-    "count": 7,
-    "uniques": 1
-  },
-  {
-    "referrer": "old.reddit.com",
-    "count": 5,
+    "count": 6,
     "uniques": 1
   },
   {
@@ -45,8 +35,13 @@
     "uniques": 1
   },
   {
-    "referrer": "eif-ema-01.eifer.kit.edu",
-    "count": 3,
+    "referrer": "old.reddit.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "libhunt.com",
+    "count": 1,
     "uniques": 1
   }
 ]
