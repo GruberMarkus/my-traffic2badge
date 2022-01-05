@@ -1,22 +1,22 @@
 [
   {
     "referrer": "Google",
-    "count": 80,
-    "uniques": 25
+    "count": 81,
+    "uniques": 26
   },
   {
     "referrer": "github.com",
-    "count": 40,
-    "uniques": 24
+    "count": 41,
+    "uniques": 25
   },
   {
     "referrer": "linkedin.com",
-    "count": 27,
-    "uniques": 22
+    "count": 29,
+    "uniques": 24
   },
   {
     "referrer": "reddit.com",
-    "count": 14,
+    "count": 17,
     "uniques": 6
   },
   {
@@ -28,5 +28,10 @@
     "referrer": "Bing",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "referrer": "statics.teams.cdn.office.net",
+    "count": 2,
+    "uniques": 2
   }
 ]
