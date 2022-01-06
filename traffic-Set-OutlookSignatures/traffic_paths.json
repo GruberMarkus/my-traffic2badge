@@ -2,26 +2,26 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures",
     "title": "GruberMarkus/Set-OutlookSignatures: Centrally manage and deploy Outlook text ...",
-    "count": 228,
-    "uniques": 109
+    "count": 251,
+    "uniques": 118
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src",
     "title": "Set-OutlookSignatures/src at main · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 23,
-    "uniques": 11
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/src/Set-OutlookSignatures.ps1",
-    "title": "Set-OutlookSignatures/Set-OutlookSignatures.ps1 at main · GruberMarkus/Set-Ou...",
-    "count": 12,
-    "uniques": 10
+    "count": 24,
+    "uniques": 12
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/releases",
     "title": "Releases · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 12,
-    "uniques": 10
+    "count": 16,
+    "uniques": 13
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/src/Set-OutlookSignatures.ps1",
+    "title": "Set-OutlookSignatures/Set-OutlookSignatures.ps1 at main · GruberMarkus/Set-Ou...",
+    "count": 13,
+    "uniques": 11
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/build",
@@ -38,8 +38,8 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/docs",
     "title": "Set-OutlookSignatures/docs at main · GruberMarkus/Set-OutlookSignatures · Git...",
-    "count": 8,
-    "uniques": 4
+    "count": 9,
+    "uniques": 5
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/stargazers",
@@ -54,8 +54,8 @@
     "uniques": 5
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src/config",
-    "title": "Set-OutlookSignatures/src/config at main · GruberMarkus/Set-OutlookSignatures...",
+    "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/download%20information.txt",
+    "title": "Set-OutlookSignatures/download information.txt at main · GruberMarkus/Set-Out...",
     "count": 5,
     "uniques": 4
   }
