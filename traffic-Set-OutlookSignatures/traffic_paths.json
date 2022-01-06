@@ -2,48 +2,42 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures",
     "title": "GruberMarkus/Set-OutlookSignatures: Centrally manage and deploy Outlook text ...",
-    "count": 245,
-    "uniques": 120
+    "count": 228,
+    "uniques": 109
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src",
     "title": "Set-OutlookSignatures/src at main · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 25,
-    "uniques": 13
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/releases",
-    "title": "Releases · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 14,
+    "count": 23,
     "uniques": 11
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/src/Set-OutlookSignatures.ps1",
     "title": "Set-OutlookSignatures/Set-OutlookSignatures.ps1 at main · GruberMarkus/Set-Ou...",
-    "count": 13,
-    "uniques": 11
+    "count": 12,
+    "uniques": 10
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/releases",
+    "title": "Releases · GruberMarkus/Set-OutlookSignatures · GitHub",
+    "count": 12,
+    "uniques": 10
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/build",
     "title": "Set-OutlookSignatures/build at main · GruberMarkus/Set-OutlookSignatures · Gi...",
-    "count": 12,
-    "uniques": 8
+    "count": 10,
+    "uniques": 7
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/issues",
     "title": "Issues · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 11,
-    "uniques": 6
+    "count": 9,
+    "uniques": 5
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/docs",
     "title": "Set-OutlookSignatures/docs at main · GruberMarkus/Set-OutlookSignatures · Git...",
-    "count": 8,
-    "uniques": 4
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src/sample%20code",
-    "title": "Set-OutlookSignatures/src/sample code at main · GruberMarkus/Set-OutlookSigna...",
     "count": 8,
     "uniques": 4
   },
@@ -54,9 +48,15 @@
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/issues/27",
-    "title": "Outlook 2013 registry keys and embedded images (original title: 'Nothing happ...",
-    "count": 6,
-    "uniques": 3
+    "path": "/GruberMarkus/Set-OutlookSignatures/releases/tag/v2.5.0-beta1",
+    "title": "Release Release v2.5.0-beta1 · GruberMarkus/Set-OutlookSignatures · GitHub",
+    "count": 5,
+    "uniques": 5
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src/config",
+    "title": "Set-OutlookSignatures/src/config at main · GruberMarkus/Set-OutlookSignatures...",
+    "count": 5,
+    "uniques": 4
   }
 ]
