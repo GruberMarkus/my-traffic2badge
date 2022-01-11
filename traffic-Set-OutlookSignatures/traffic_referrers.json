@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 88,
-    "uniques": 27
+    "count": 96,
+    "uniques": 35
   },
   {
     "referrer": "github.com",
-    "count": 33,
-    "uniques": 21
+    "count": 36,
+    "uniques": 23
   },
   {
     "referrer": "reddit.com",
-    "count": 15,
-    "uniques": 8
+    "count": 17,
+    "uniques": 9
   },
   {
     "referrer": "DuckDuckGo",
@@ -31,7 +31,12 @@
   },
   {
     "referrer": "statics.teams.cdn.office.net",
-    "count": 2,
-    "uniques": 2
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "referrer": "extranet.matrix.ag",
+    "count": 3,
+    "uniques": 1
   }
 ]
