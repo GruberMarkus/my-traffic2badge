@@ -1,23 +1,23 @@
 [
   {
-    "referrer": "Google",
-    "count": 94,
-    "uniques": 42
+    "referrer": "linkedin.com",
+    "count": 101,
+    "uniques": 67
   },
   {
-    "referrer": "github.com",
-    "count": 45,
-    "uniques": 26
+    "referrer": "Google",
+    "count": 100,
+    "uniques": 45
   },
   {
     "referrer": "reddit.com",
-    "count": 20,
-    "uniques": 9
+    "count": 93,
+    "uniques": 60
   },
   {
-    "referrer": "linkedin.com",
-    "count": 10,
-    "uniques": 10
+    "referrer": "github.com",
+    "count": 60,
+    "uniques": 30
   },
   {
     "referrer": "DuckDuckGo",
@@ -25,18 +25,28 @@
     "uniques": 1
   },
   {
+    "referrer": "statics.teams.cdn.office.net",
+    "count": 4,
+    "uniques": 4
+  },
+  {
+    "referrer": "old.reddit.com",
+    "count": 4,
+    "uniques": 2
+  },
+  {
     "referrer": "Bing",
     "count": 4,
     "uniques": 1
   },
   {
-    "referrer": "statics.teams.cdn.office.net",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "referrer": "extranet.matrix.ag",
     "count": 3,
+    "uniques": 1
+  },
+  {
+    "referrer": "l.facebook.com",
+    "count": 1,
     "uniques": 1
   }
 ]
