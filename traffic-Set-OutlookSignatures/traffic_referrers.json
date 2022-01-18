@@ -1,22 +1,22 @@
 [
   {
     "referrer": "linkedin.com",
-    "count": 176,
-    "uniques": 108
+    "count": 174,
+    "uniques": 106
   },
   {
     "referrer": "reddit.com",
-    "count": 122,
-    "uniques": 74
+    "count": 119,
+    "uniques": 73
   },
   {
     "referrer": "Google",
-    "count": 103,
-    "uniques": 44
+    "count": 102,
+    "uniques": 43
   },
   {
     "referrer": "github.com",
-    "count": 51,
+    "count": 50,
     "uniques": 27
   },
   {
@@ -35,11 +35,6 @@
     "uniques": 3
   },
   {
-    "referrer": "statics.teams.cdn.office.net",
-    "count": 4,
-    "uniques": 4
-  },
-  {
     "referrer": "DuckDuckGo",
     "count": 4,
     "uniques": 1
@@ -48,5 +43,10 @@
     "referrer": "extranet.matrix.ag",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "referrer": "statics.teams.cdn.office.net",
+    "count": 2,
+    "uniques": 2
   }
 ]
