@@ -274,6 +274,36 @@
 [![clones per week](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-Export-RecipientPermissions/clones_per_week.svg)](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic#-Export-RecipientPermissions)
 ```
 
+## 📚 [GruberMarkus](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic/traffic-GruberMarkus)
+
+### 📷 Badges without link of [GruberMarkus](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic/traffic-GruberMarkus)
+
+![views](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-GruberMarkus/views.svg)
+![views per week](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-GruberMarkus/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-GruberMarkus/clones.svg)
+![clones per week](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-GruberMarkus/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-GruberMarkus/views.svg)
+![views per week](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-GruberMarkus/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-GruberMarkus/clones.svg)
+![clones per week](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-GruberMarkus/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [GruberMarkus](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic/traffic-GruberMarkus)
+
+[![views](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-GruberMarkus/views.svg)](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic#-GruberMarkus)
+[![views per week](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-GruberMarkus/views_per_week.svg)](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic#-GruberMarkus)
+[![clones](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-GruberMarkus/clones.svg)](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic#-GruberMarkus)
+[![clones per week](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-GruberMarkus/clones_per_week.svg)](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic#-GruberMarkus)
+
+```markdown
+[![views](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-GruberMarkus/views.svg)](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic#-GruberMarkus)
+[![views per week](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-GruberMarkus/views_per_week.svg)](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic#-GruberMarkus)
+[![clones](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-GruberMarkus/clones.svg)](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic#-GruberMarkus)
+[![clones per week](https://raw.githubusercontent.com/GruberMarkus/my-traffic2badge/traffic/traffic-GruberMarkus/clones_per_week.svg)](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic#-GruberMarkus)
+```
+
 ## 📚 [modScaleForm](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic/traffic-modScaleForm)
 
 ### 📷 Badges without link of [modScaleForm](https://github.com/GruberMarkus/my-traffic2badge/tree/traffic/traffic-modScaleForm)
