@@ -1,12 +1,7 @@
 [
   {
     "referrer": "Google",
-    "count": 5,
-    "uniques": 4
-  },
-  {
-    "referrer": "DuckDuckGo",
-    "count": 1,
-    "uniques": 1
+    "count": 3,
+    "uniques": 3
   }
 ]
