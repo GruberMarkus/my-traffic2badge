@@ -1,28 +1,33 @@
 [
   {
     "referrer": "linkedin.com",
-    "count": 219,
-    "uniques": 130
+    "count": 224,
+    "uniques": 133
   },
   {
     "referrer": "Google",
-    "count": 177,
-    "uniques": 48
+    "count": 194,
+    "uniques": 53
   },
   {
     "referrer": "reddit.com",
-    "count": 145,
-    "uniques": 83
+    "count": 147,
+    "uniques": 84
   },
   {
     "referrer": "github.com",
-    "count": 92,
-    "uniques": 31
+    "count": 94,
+    "uniques": 33
   },
   {
     "referrer": "old.reddit.com",
     "count": 15,
     "uniques": 5
+  },
+  {
+    "referrer": "DuckDuckGo",
+    "count": 8,
+    "uniques": 2
   },
   {
     "referrer": "lnkd.in",
@@ -33,11 +38,6 @@
     "referrer": "Bing",
     "count": 6,
     "uniques": 3
-  },
-  {
-    "referrer": "DuckDuckGo",
-    "count": 5,
-    "uniques": 1
   },
   {
     "referrer": "doku.seu.sozvers.at",
