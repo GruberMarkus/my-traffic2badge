@@ -1,33 +1,33 @@
 [
   {
-    "referrer": "linkedin.com",
-    "count": 226,
-    "uniques": 134
+    "referrer": "Google",
+    "count": 189,
+    "uniques": 50
   },
   {
-    "referrer": "Google",
-    "count": 195,
-    "uniques": 53
+    "referrer": "linkedin.com",
+    "count": 135,
+    "uniques": 82
   },
   {
     "referrer": "reddit.com",
-    "count": 146,
-    "uniques": 84
-  },
-  {
-    "referrer": "com.linkedin.android",
-    "count": 106,
-    "uniques": 70
+    "count": 73,
+    "uniques": 37
   },
   {
     "referrer": "github.com",
-    "count": 87,
-    "uniques": 30
+    "count": 72,
+    "uniques": 25
+  },
+  {
+    "referrer": "com.linkedin.android",
+    "count": 51,
+    "uniques": 44
   },
   {
     "referrer": "old.reddit.com",
-    "count": 15,
-    "uniques": 5
+    "count": 11,
+    "uniques": 3
   },
   {
     "referrer": "lnkd.in",
