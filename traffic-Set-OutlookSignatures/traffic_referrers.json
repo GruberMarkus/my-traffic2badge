@@ -1,28 +1,28 @@
 [
   {
     "referrer": "Google",
-    "count": 204,
-    "uniques": 55
+    "count": 182,
+    "uniques": 48
   },
   {
     "referrer": "github.com",
-    "count": 71,
-    "uniques": 22
+    "count": 66,
+    "uniques": 19
   },
   {
     "referrer": "linkedin.com",
-    "count": 46,
-    "uniques": 24
+    "count": 35,
+    "uniques": 19
   },
   {
     "referrer": "reddit.com",
-    "count": 29,
-    "uniques": 13
+    "count": 27,
+    "uniques": 12
   },
   {
     "referrer": "com.linkedin.android",
-    "count": 10,
-    "uniques": 9
+    "count": 9,
+    "uniques": 8
   },
   {
     "referrer": "DuckDuckGo",
@@ -41,8 +41,8 @@
   },
   {
     "referrer": "Bing",
-    "count": 2,
-    "uniques": 2
+    "count": 1,
+    "uniques": 1
   },
   {
     "referrer": "StartPage",
