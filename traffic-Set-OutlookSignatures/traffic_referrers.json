@@ -1,27 +1,22 @@
 [
   {
     "referrer": "Google",
-    "count": 227,
-    "uniques": 55
+    "count": 203,
+    "uniques": 52
   },
   {
     "referrer": "github.com",
-    "count": 71,
-    "uniques": 21
+    "count": 60,
+    "uniques": 17
   },
   {
     "referrer": "linkedin.com",
-    "count": 35,
-    "uniques": 19
+    "count": 34,
+    "uniques": 18
   },
   {
     "referrer": "reddit.com",
-    "count": 27,
-    "uniques": 12
-  },
-  {
-    "referrer": "com.linkedin.android",
-    "count": 9,
+    "count": 18,
     "uniques": 8
   },
   {
@@ -30,13 +25,13 @@
     "uniques": 2
   },
   {
-    "referrer": "teams.microsoft.com",
+    "referrer": "com.linkedin.android",
     "count": 6,
-    "uniques": 1
+    "uniques": 5
   },
   {
-    "referrer": "doku.seu.sozvers.at",
-    "count": 3,
+    "referrer": "teams.microsoft.com",
+    "count": 6,
     "uniques": 1
   },
   {
@@ -46,6 +41,11 @@
   },
   {
     "referrer": "StartPage",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "old.reddit.com",
     "count": 1,
     "uniques": 1
   }
