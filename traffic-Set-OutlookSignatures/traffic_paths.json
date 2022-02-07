@@ -2,14 +2,14 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures",
     "title": "GruberMarkus/Set-OutlookSignatures: Centrally manage and deploy Outlook text ...",
-    "count": 364,
-    "uniques": 181
+    "count": 322,
+    "uniques": 162
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src",
     "title": "Set-OutlookSignatures/src at main · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 36,
-    "uniques": 22
+    "count": 33,
+    "uniques": 20
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/releases",
@@ -30,12 +30,6 @@
     "uniques": 13
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/releases/tag/v2.5.1",
-    "title": "Release Release v2.5.1 · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 16,
-    "uniques": 9
-  },
-  {
     "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/download%20information.txt",
     "title": "Set-OutlookSignatures/download information.txt at main · GruberMarkus/Set-Out...",
     "count": 15,
@@ -44,19 +38,25 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/src/Set-OutlookSignatures.ps1",
     "title": "Set-OutlookSignatures/Set-OutlookSignatures.ps1 at main · GruberMarkus/Set-Ou...",
-    "count": 14,
-    "uniques": 10
+    "count": 12,
+    "uniques": 8
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src/sample%20code",
-    "title": "Set-OutlookSignatures/src/sample code at main · GruberMarkus/Set-OutlookSigna...",
+    "path": "/GruberMarkus/Set-OutlookSignatures/releases/tag/v2.5.1",
+    "title": "Release Release v2.5.1 · GruberMarkus/Set-OutlookSignatures · GitHub",
     "count": 11,
-    "uniques": 7
+    "uniques": 8
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/find/main",
     "title": "File Finder · GitHub",
     "count": 10,
     "uniques": 9
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src/sample%20code",
+    "title": "Set-OutlookSignatures/src/sample code at main · GruberMarkus/Set-OutlookSigna...",
+    "count": 10,
+    "uniques": 6
   }
 ]
