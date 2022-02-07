@@ -1,7 +1,12 @@
 [
   {
     "referrer": "Google",
-    "count": 6,
-    "uniques": 3
+    "count": 7,
+    "uniques": 4
+  },
+  {
+    "referrer": "StartPage",
+    "count": 2,
+    "uniques": 1
   }
 ]
