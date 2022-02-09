@@ -2,20 +2,20 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures",
     "title": "GruberMarkus/Set-OutlookSignatures: Centrally manage and deploy Outlook text ...",
-    "count": 345,
-    "uniques": 158
+    "count": 320,
+    "uniques": 145
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/releases",
     "title": "Releases · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 41,
-    "uniques": 21
+    "count": 37,
+    "uniques": 19
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src",
     "title": "Set-OutlookSignatures/src at main · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 34,
-    "uniques": 16
+    "count": 32,
+    "uniques": 15
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/docs",
@@ -38,25 +38,25 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/download%20information.txt",
     "title": "Set-OutlookSignatures/download information.txt at main · GruberMarkus/Set-Out...",
-    "count": 14,
-    "uniques": 12
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/releases/tag/v2.5.1",
-    "title": "Release Release v2.5.1 · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 11,
-    "uniques": 9
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/discussions",
-    "title": "Discussions · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 10,
-    "uniques": 6
+    "count": 13,
+    "uniques": 11
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src/sample%20code",
     "title": "Set-OutlookSignatures/src/sample code at main · GruberMarkus/Set-OutlookSigna...",
     "count": 10,
+    "uniques": 6
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/find/main",
+    "title": "File Finder · GitHub",
+    "count": 8,
+    "uniques": 7
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/.github",
+    "title": "Set-OutlookSignatures/.github at main · GruberMarkus/Set-OutlookSignatures · ...",
+    "count": 8,
     "uniques": 6
   }
 ]
