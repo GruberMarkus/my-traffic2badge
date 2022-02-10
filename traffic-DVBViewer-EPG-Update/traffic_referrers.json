@@ -1,12 +1,12 @@
 [
   {
-    "referrer": "StartPage",
+    "referrer": "Google",
     "count": 2,
-    "uniques": 1
+    "uniques": 2
   },
   {
-    "referrer": "Google",
-    "count": 1,
+    "referrer": "StartPage",
+    "count": 2,
     "uniques": 1
   }
 ]
