@@ -1,8 +1,14 @@
 [
   {
     "path": "/GruberMarkus/my-traffic2badge",
-    "title": "GitHub - GruberMarkus/my-traffic2badge",
-    "count": 1,
+    "title": "GruberMarkus/my-traffic2badge",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/actions",
+    "title": "Actions · GruberMarkus/my-traffic2badge",
+    "count": 2,
     "uniques": 1
   },
   {
@@ -12,8 +18,38 @@
     "uniques": 1
   },
   {
+    "path": "/GruberMarkus/my-traffic2badge/actions/runs/1830849883",
+    "title": "build(deps): bump actions/github-script from 5 to 6 (#5) · GruberMarkus/my-tr...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/actions/workflows/traffic2badge.yml",
+    "title": "Actions · GruberMarkus/my-traffic2badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/pull/5",
+    "title": "build(deps): bump actions/github-script from 5 to 6 by dependabot[bot] · Pull...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/pulls",
+    "title": "Pull requests · GruberMarkus/my-traffic2badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/GruberMarkus/my-traffic2badge/runs/5121101492",
     "title": "Update traffic2badge.yml · GruberMarkus/my-traffic2badge@c620fc3",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/runs/5160410856",
+    "title": "build(deps): bump actions/github-script from 5 to 6 (#5) · GruberMarkus/my-tr...",
     "count": 1,
     "uniques": 1
   }
