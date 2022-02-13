@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 213,
-    "uniques": 63
+    "count": 210,
+    "uniques": 61
   },
   {
     "referrer": "github.com",
@@ -30,14 +30,14 @@
     "uniques": 1
   },
   {
-    "referrer": "linkedin.com",
-    "count": 6,
-    "uniques": 6
-  },
-  {
     "referrer": "teams.microsoft.com",
     "count": 6,
     "uniques": 1
+  },
+  {
+    "referrer": "linkedin.com",
+    "count": 5,
+    "uniques": 5
   },
   {
     "referrer": "libhunt.com",
