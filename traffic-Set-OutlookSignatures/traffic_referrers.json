@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 218,
-    "uniques": 64
+    "count": 195,
+    "uniques": 59
   },
   {
     "referrer": "github.com",
-    "count": 92,
-    "uniques": 32
+    "count": 81,
+    "uniques": 30
   },
   {
     "referrer": "reddit.com",
-    "count": 15,
-    "uniques": 8
+    "count": 13,
+    "uniques": 7
   },
   {
     "referrer": "StartPage",
@@ -30,11 +30,6 @@
     "uniques": 1
   },
   {
-    "referrer": "teams.microsoft.com",
-    "count": 6,
-    "uniques": 1
-  },
-  {
     "referrer": "linkedin.com",
     "count": 5,
     "uniques": 5
@@ -47,6 +42,11 @@
   {
     "referrer": "libhunt.com",
     "count": 5,
+    "uniques": 1
+  },
+  {
+    "referrer": "doku.seu.sozvers.at",
+    "count": 2,
     "uniques": 1
   }
 ]
