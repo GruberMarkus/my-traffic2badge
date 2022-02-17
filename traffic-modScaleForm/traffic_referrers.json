@@ -3,5 +3,10 @@
     "referrer": "sourceforge.net",
     "count": 10,
     "uniques": 3
+  },
+  {
+    "referrer": "Bing",
+    "count": 1,
+    "uniques": 1
   }
 ]
