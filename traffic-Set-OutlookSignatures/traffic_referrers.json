@@ -1,23 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 155,
-    "uniques": 65
+    "count": 173,
+    "uniques": 70
   },
   {
     "referrer": "github.com",
-    "count": 100,
-    "uniques": 31
+    "count": 107,
+    "uniques": 34
+  },
+  {
+    "referrer": "reddit.com",
+    "count": 13,
+    "uniques": 9
   },
   {
     "referrer": "StartPage",
     "count": 13,
     "uniques": 2
-  },
-  {
-    "referrer": "reddit.com",
-    "count": 11,
-    "uniques": 7
   },
   {
     "referrer": "com.linkedin.android",
