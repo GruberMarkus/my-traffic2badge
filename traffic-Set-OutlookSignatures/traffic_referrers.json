@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 170,
-    "uniques": 70
+    "count": 176,
+    "uniques": 73
   },
   {
     "referrer": "github.com",
-    "count": 145,
-    "uniques": 38
+    "count": 148,
+    "uniques": 40
   },
   {
     "referrer": "linkedin.com",
@@ -15,14 +15,14 @@
     "uniques": 3
   },
   {
+    "referrer": "reddit.com",
+    "count": 13,
+    "uniques": 10
+  },
+  {
     "referrer": "StartPage",
     "count": 13,
     "uniques": 2
-  },
-  {
-    "referrer": "reddit.com",
-    "count": 11,
-    "uniques": 8
   },
   {
     "referrer": "Bing",
