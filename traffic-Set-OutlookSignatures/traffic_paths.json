@@ -2,32 +2,32 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures",
     "title": "GruberMarkus/Set-OutlookSignatures: Centrally manage and deploy Outlook text ...",
-    "count": 309,
-    "uniques": 150
+    "count": 337,
+    "uniques": 161
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src",
     "title": "Set-OutlookSignatures/src at main · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 53,
-    "uniques": 24
+    "count": 56,
+    "uniques": 26
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/releases",
     "title": "Releases · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 33,
-    "uniques": 19
+    "count": 35,
+    "uniques": 20
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/docs",
     "title": "Set-OutlookSignatures/docs at main · GruberMarkus/Set-OutlookSignatures · Git...",
-    "count": 26,
-    "uniques": 14
+    "count": 32,
+    "uniques": 15
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/src/Set-OutlookSignatures.ps1",
     "title": "Set-OutlookSignatures/Set-OutlookSignatures.ps1 at main · GruberMarkus/Set-Ou...",
-    "count": 21,
-    "uniques": 14
+    "count": 23,
+    "uniques": 15
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src/bin",
@@ -44,8 +44,8 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/build",
     "title": "Set-OutlookSignatures/build at main · GruberMarkus/Set-OutlookSignatures · Gi...",
-    "count": 15,
-    "uniques": 12
+    "count": 16,
+    "uniques": 13
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src/docs",
@@ -54,9 +54,9 @@
     "uniques": 7
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/issues",
-    "title": "Issues · GruberMarkus/Set-OutlookSignatures · GitHub",
+    "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/download%20information.txt",
+    "title": "Set-OutlookSignatures/download information.txt at main · GruberMarkus/Set-Out...",
     "count": 14,
-    "uniques": 6
+    "uniques": 11
   }
 ]

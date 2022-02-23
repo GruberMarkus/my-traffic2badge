@@ -2,24 +2,30 @@
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/blob/main/Export-RecipientPermissions.ps1",
     "title": "Export-RecipientPermissions/Export-RecipientPermissions.ps1 at main · GruberM...",
-    "count": 11,
+    "count": 16,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Export-RecipientPermissions",
+    "title": "GruberMarkus/Export-RecipientPermissions: Document Exchange mailbox access ri...",
+    "count": 10,
     "uniques": 1
   },
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/tree/develop",
     "title": "GruberMarkus/Export-RecipientPermissions at develop",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/Export-RecipientPermissions",
-    "title": "GruberMarkus/Export-RecipientPermissions",
-    "count": 5,
+    "count": 8,
     "uniques": 1
   },
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/tree/develop/src",
     "title": "Export-RecipientPermissions/src at develop · GruberMarkus/Export-RecipientPer...",
+    "count": 7,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Export-RecipientPermissions/tree/develop/src/sample%20code",
+    "title": "Export-RecipientPermissions/src/sample code at develop · GruberMarkus/Export-...",
     "count": 5,
     "uniques": 1
   },
@@ -30,21 +36,27 @@
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/Export-RecipientPermissions/tree/develop/src/sample%20code",
-    "title": "Export-RecipientPermissions/src/sample code at develop · GruberMarkus/Export-...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "path": "/GruberMarkus/Export-RecipientPermissions/tree/develop/src/sample%20code/permission%20changes%20over%20time",
     "title": "Export-RecipientPermissions/src/sample code/permission changes over time at d...",
     "count": 3,
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/Export-RecipientPermissions/blob/develop/src/Export-RecipientPermissions.ps1",
-    "title": "Export-RecipientPermissions/Export-RecipientPermissions.ps1 at develop · Grub...",
-    "count": 1,
+    "path": "/GruberMarkus/Export-RecipientPermissions/blob/develop/src/sample%20code/permission%20dependency%20graphics/Get-DependentRecipients.ps1",
+    "title": "Export-RecipientPermissions/Get-DependentRecipients.ps1 at develop · GruberMa...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Export-RecipientPermissions/blob/main/Get-DependentRecipients.ps1",
+    "title": "Export-RecipientPermissions/Get-DependentRecipients.ps1 at main · GruberMarku...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Export-RecipientPermissions/tree/develop/src/sample%20code/permission%20dependency%20graphics",
+    "title": "Export-RecipientPermissions/src/sample code/permission dependency graphics at...",
+    "count": 2,
     "uniques": 1
   }
 ]
