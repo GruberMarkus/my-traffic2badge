@@ -1,8 +1,18 @@
 [
   {
+    "referrer": "linkedin.com",
+    "count": 93,
+    "uniques": 40
+  },
+  {
     "referrer": "github.com",
-    "count": 9,
-    "uniques": 1
+    "count": 45,
+    "uniques": 6
+  },
+  {
+    "referrer": "com.linkedin.android",
+    "count": 13,
+    "uniques": 10
   },
   {
     "referrer": "DuckDuckGo",
@@ -12,6 +22,16 @@
   {
     "referrer": "giters.com",
     "count": 5,
+    "uniques": 1
+  },
+  {
+    "referrer": "reddit.com",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "lm.facebook.com",
+    "count": 1,
     "uniques": 1
   }
 ]
