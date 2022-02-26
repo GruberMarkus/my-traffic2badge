@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 175,
-    "uniques": 74
+    "count": 167,
+    "uniques": 71
   },
   {
     "referrer": "github.com",
-    "count": 124,
-    "uniques": 44
+    "count": 119,
+    "uniques": 43
   },
   {
     "referrer": "linkedin.com",
@@ -16,8 +16,8 @@
   },
   {
     "referrer": "reddit.com",
-    "count": 15,
-    "uniques": 13
+    "count": 14,
+    "uniques": 12
   },
   {
     "referrer": "DuckDuckGo",
@@ -30,14 +30,14 @@
     "uniques": 4
   },
   {
-    "referrer": "com.linkedin.android",
-    "count": 6,
-    "uniques": 2
-  },
-  {
     "referrer": "doku.seu.sozvers.at",
     "count": 6,
     "uniques": 1
+  },
+  {
+    "referrer": "com.linkedin.android",
+    "count": 3,
+    "uniques": 2
   },
   {
     "referrer": "big-meter.com",
