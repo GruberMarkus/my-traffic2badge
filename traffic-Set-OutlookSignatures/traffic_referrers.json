@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 167,
-    "uniques": 71
+    "count": 187,
+    "uniques": 80
   },
   {
     "referrer": "github.com",
-    "count": 119,
-    "uniques": 43
+    "count": 122,
+    "uniques": 46
   },
   {
     "referrer": "linkedin.com",
@@ -36,8 +36,8 @@
   },
   {
     "referrer": "com.linkedin.android",
-    "count": 3,
-    "uniques": 2
+    "count": 5,
+    "uniques": 3
   },
   {
     "referrer": "big-meter.com",
