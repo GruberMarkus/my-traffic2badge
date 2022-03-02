@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 202,
-    "uniques": 75
+    "count": 160,
+    "uniques": 62
   },
   {
     "referrer": "github.com",
-    "count": 102,
-    "uniques": 39
+    "count": 92,
+    "uniques": 32
   },
   {
     "referrer": "linkedin.com",
@@ -25,27 +25,17 @@
     "uniques": 3
   },
   {
-    "referrer": "doku.seu.sozvers.at",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "referrer": "big-meter.com",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "referrer": "Bing",
     "count": 2,
     "uniques": 2
   },
   {
-    "referrer": "com.linkedin.android",
+    "referrer": "truliantfcu.webex.com",
     "count": 2,
     "uniques": 1
   },
   {
-    "referrer": "truliantfcu.webex.com",
+    "referrer": "com.linkedin.android",
     "count": 2,
     "uniques": 1
   }
