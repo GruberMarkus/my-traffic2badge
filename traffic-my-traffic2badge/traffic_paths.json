@@ -2,19 +2,55 @@
   {
     "path": "/GruberMarkus/my-traffic2badge",
     "title": "GruberMarkus/my-traffic2badge",
-    "count": 2,
+    "count": 5,
     "uniques": 2
   },
   {
     "path": "/GruberMarkus/my-traffic2badge/blob/workflows/.github/workflows/traffic2badge.yml",
     "title": "my-traffic2badge/traffic2badge.yml at workflows · GruberMarkus/my-traffic2badge",
-    "count": 2,
-    "uniques": 1
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/GruberMarkus/my-traffic2badge/tree/workflows/.github",
     "title": "my-traffic2badge/.github at workflows · GruberMarkus/my-traffic2badge",
-    "count": 2,
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/blob/workflows/.github/dependabot.yml",
+    "title": "my-traffic2badge/dependabot.yml at workflows · GruberMarkus/my-traffic2badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/branches",
+    "title": "Branches · GruberMarkus/my-traffic2badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/edit/workflows/.github/workflows/traffic2badge.yml",
+    "title": "Editing my-traffic2badge/traffic2badge.yml at workflows · GruberMarkus/my-tra...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/pull/6",
+    "title": "build(deps): bump actions/checkout from 2.4.0 to 3 by dependabot[bot] · Pull ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/pulls",
+    "title": "Pull requests · GruberMarkus/my-traffic2badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/tree/workflows/.github/workflows",
+    "title": "my-traffic2badge/.github/workflows at workflows · GruberMarkus/my-traffic2badge",
+    "count": 1,
     "uniques": 1
   }
 ]
