@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   run:
@@ -11,17 +11,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
-        uses: actions/checkout
+        uses: actions/checkout@v3
 
       - name: Get Repo List
         id: repo
-        uses: yi-Xu-0100/repo-list-generator
+        uses: yi-Xu-0100/repo-list-generator@v1.0.1
         with:
           block_list: .github
-  
+
       - name: Get Commit Message
         id: message
-        uses: actions/github-script
+        uses: actions/github-script@v6
         env:
           FULL_COMMIT_MESSAGE: '${{ github.event.head_commit.message }}'
         with:
@@ -36,7 +36,7 @@ jobs:
 
       - name: Set traffic
         id: traffic
-        uses: yi-Xu-0100/traffic-to-badge
+        uses: yi-Xu-0100/traffic-to-badge@v1.4.0
         with:
           my_token: ${{ secrets.TRAFFIC_TOKEN }}
           static_list: '${{ steps.repo.outputs.repoList }}'
@@ -50,10 +50,10 @@ jobs:
           #(default) total_views_week_color: brightgreen
           #(default) total_clones_week_color: brightgreen
           #(default) logo: github
-          #year: 2019
+          year: 2019
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages
+        uses: peaceiris/actions-gh-pages@v3.8.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: ${{ steps.traffic.outputs.traffic_branch }}
