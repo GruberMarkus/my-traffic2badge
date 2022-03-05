@@ -11,17 +11,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
-        uses: actions/checkout@latest
+        uses: actions/checkout
 
       - name: Get Repo List
         id: repo
-        uses: yi-Xu-0100/repo-list-generator@latest
+        uses: yi-Xu-0100/repo-list-generator
         with:
           block_list: .github
   
       - name: Get Commit Message
         id: message
-        uses: actions/github-script@latest
+        uses: actions/github-script
         env:
           FULL_COMMIT_MESSAGE: '${{ github.event.head_commit.message }}'
         with:
@@ -36,7 +36,7 @@ jobs:
 
       - name: Set traffic
         id: traffic
-        uses: yi-Xu-0100/traffic-to-badge@latest
+        uses: yi-Xu-0100/traffic-to-badge
         with:
           my_token: ${{ secrets.TRAFFIC_TOKEN }}
           static_list: '${{ steps.repo.outputs.repoList }}'
@@ -53,7 +53,7 @@ jobs:
           #year: 2019
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@latest
+        uses: peaceiris/actions-gh-pages
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: ${{ steps.traffic.outputs.traffic_branch }}
