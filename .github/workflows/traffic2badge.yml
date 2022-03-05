@@ -17,7 +17,7 @@ jobs:
         id: repo
         uses: yi-Xu-0100/repo-list-generator@v1.0.1
         with:
-          block_list: .github
+          block_list: '.github'
 
       - name: Get Commit Message
         id: message
@@ -50,7 +50,7 @@ jobs:
           #(default) total_views_week_color: brightgreen
           #(default) total_clones_week_color: brightgreen
           #(default) logo: github
-          year: 2019
+          # year: 2019
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.8.0
