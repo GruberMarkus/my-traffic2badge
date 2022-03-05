@@ -1,25 +1,20 @@
 name: traffic2badge
 on:
-  push:
-  schedule:
-    - cron: '47 * * * *'
   workflow_dispatch:
+  schedule:
+    - cron: '1 0 * * *' #UTC
 
 jobs:
   run:
     name: Make GitHub Traffic to Badge
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-
-      - name: Get Repo List
-        id: repo
-        uses: yi-Xu-0100/repo-list-generator@v1.0.1
+      - name: Checkout Code
+        uses: actions/checkout@v2.3.4
 
       - name: Get Commit Message
         id: message
-        uses: actions/github-script@v6
+        uses: actions/github-script@v3.1.0
         env:
           FULL_COMMIT_MESSAGE: '${{ github.event.head_commit.message }}'
         with:
@@ -32,12 +27,12 @@ jobs:
             core.info(time);
             return `Get traffic data at ${time}`;
 
-      - name: Set traffic
+      - name: Set Traffic
         id: traffic
         uses: yi-Xu-0100/traffic-to-badge@v1.4.0
         with:
           my_token: ${{ secrets.TRAFFIC_TOKEN }}
-          static_list: '${{ steps.repo.outputs.repoList }}'
+          #(default) static_list: ${{ github.repository }}
           #(default) traffic_branch: traffic
           #(default) views_color: brightgreen
           #(default) clones_color: brightgreen
@@ -51,7 +46,7 @@ jobs:
           year: 2021
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3.8.0
+        uses: peaceiris/actions-gh-pages@v3.7.3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: ${{ steps.traffic.outputs.traffic_branch }}
@@ -60,7 +55,9 @@ jobs:
           user_email: 'github-actions[bot]@users.noreply.github.com'
           full_commit_message: ${{ steps.message.outputs.result }}
 
-      - name: Show traffic data
+      - name: Show Traffic Data
         run: |
+          echo ${{ steps.traffic.outputs.traffic_branch }}
+          echo ${{ steps.traffic.outputs.traffic_path }}
           cd ${{ steps.traffic.outputs.traffic_path }}
           ls -a
