@@ -20,22 +20,17 @@
     "uniques": 3
   },
   {
-    "referrer": "giters.com",
-    "count": 5,
-    "uniques": 1
-  },
-  {
     "referrer": "DuckDuckGo",
     "count": 2,
     "uniques": 1
   },
   {
-    "referrer": "lm.facebook.com",
+    "referrer": "urlisolation.com",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "urlisolation.com",
+    "referrer": "lm.facebook.com",
     "count": 1,
     "uniques": 1
   }
