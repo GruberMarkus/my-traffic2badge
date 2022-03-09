@@ -1,23 +1,18 @@
 [
   {
     "referrer": "linkedin.com",
-    "count": 162,
-    "uniques": 71
+    "count": 72,
+    "uniques": 37
   },
   {
     "referrer": "github.com",
-    "count": 49,
-    "uniques": 9
+    "count": 17,
+    "uniques": 6
   },
   {
     "referrer": "com.linkedin.android",
-    "count": 26,
-    "uniques": 18
-  },
-  {
-    "referrer": "reddit.com",
-    "count": 5,
-    "uniques": 3
+    "count": 14,
+    "uniques": 10
   },
   {
     "referrer": "lnkd.in",
@@ -25,12 +20,12 @@
     "uniques": 2
   },
   {
-    "referrer": "urlisolation.com",
-    "count": 1,
+    "referrer": "reddit.com",
+    "count": 3,
     "uniques": 1
   },
   {
-    "referrer": "lm.facebook.com",
+    "referrer": "urlisolation.com",
     "count": 1,
     "uniques": 1
   }
