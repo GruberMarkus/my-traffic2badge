@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
   schedule:
-    - cron: '52 0/1 * * *'
+    - cron: '52 0 * * *'
 
 jobs:
   run:
@@ -16,8 +16,6 @@ jobs:
       - name: Get Repo List
         id: repo
         uses: yi-Xu-0100/repo-list-generator@v1.0.1
-        with:
-          block_list: '.github'
 
       - name: Get Commit Message
         id: message
