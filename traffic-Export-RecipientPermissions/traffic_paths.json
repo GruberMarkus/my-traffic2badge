@@ -2,13 +2,13 @@
   {
     "path": "/GruberMarkus/Export-RecipientPermissions",
     "title": "GruberMarkus/Export-RecipientPermissions: Document Exchange mailbox access ri...",
-    "count": 143,
-    "uniques": 59
+    "count": 124,
+    "uniques": 50
   },
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/releases",
     "title": "Releases · GruberMarkus/Export-RecipientPermissions · GitHub",
-    "count": 28,
+    "count": 26,
     "uniques": 3
   },
   {
@@ -20,14 +20,8 @@
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/tags",
     "title": "Tags · GruberMarkus/Export-RecipientPermissions",
-    "count": 13,
+    "count": 12,
     "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/Export-RecipientPermissions/tree/main/src",
-    "title": "Export-RecipientPermissions/src at main · GruberMarkus/Export-RecipientPermis...",
-    "count": 9,
-    "uniques": 6
   },
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/actions",
@@ -36,9 +30,9 @@
     "uniques": 2
   },
   {
-    "path": "/GruberMarkus/Export-RecipientPermissions/blob/main/src/Export-RecipientPermissions.ps1",
-    "title": "Export-RecipientPermissions/Export-RecipientPermissions.ps1 at main · GruberM...",
-    "count": 7,
+    "path": "/GruberMarkus/Export-RecipientPermissions/tree/main/src",
+    "title": "Export-RecipientPermissions/src at main · GruberMarkus/Export-RecipientPermis...",
+    "count": 8,
     "uniques": 5
   },
   {
@@ -48,10 +42,16 @@
     "uniques": 3
   },
   {
+    "path": "/GruberMarkus/Export-RecipientPermissions/blob/main/src/Export-RecipientPermissions.ps1",
+    "title": "Export-RecipientPermissions/Export-RecipientPermissions.ps1 at main · GruberM...",
+    "count": 6,
+    "uniques": 4
+  },
+  {
     "path": "/GruberMarkus/Export-RecipientPermissions/tree/main/docs",
     "title": "Export-RecipientPermissions/docs at main · GruberMarkus/Export-RecipientPermi...",
-    "count": 6,
-    "uniques": 5
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/tree/develop",
