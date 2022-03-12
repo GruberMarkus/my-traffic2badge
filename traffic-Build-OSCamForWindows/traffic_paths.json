@@ -2,36 +2,30 @@
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/blob/main/Build-OSCamForWindows.ps1",
     "title": "Build-OSCamForWindows/Build-OSCamForWindows.ps1 at main · GruberMarkus/Build-...",
-    "count": 38,
-    "uniques": 6
+    "count": 40,
+    "uniques": 4
   },
   {
     "path": "/GruberMarkus/Build-OSCamForWindows",
     "title": "GitHub - GruberMarkus/Build-OSCamForWindows: Fully automate building OSCam fo...",
-    "count": 22,
-    "uniques": 12
+    "count": 16,
+    "uniques": 11
   },
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/commit/c4139232a4b248a30fe9af184f35b9921f8d8814",
     "title": "Compile with CONF_DIR=./ · GruberMarkus/Build-OSCamForWindows@c413923 · GitHub",
-    "count": 5,
-    "uniques": 4
+    "count": 4,
+    "uniques": 3
   },
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/blob/c4139232a4b248a30fe9af184f35b9921f8d8814/Build-OSCamForWindows.ps1",
     "title": "Build-OSCamForWindows/Build-OSCamForWindows.ps1 at c4139232a4b248a30fe9af184f...",
-    "count": 3,
-    "uniques": 2
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/find/c4139232a4b248a30fe9af184f35b9921f8d8814",
     "title": "File Finder · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/GruberMarkus/Build-OSCamForWindows/issues/1",
-    "title": "wrong conf dir is used · Issue #1 · GruberMarkus/Build-OSCamForWindows · GitHub",
     "count": 1,
     "uniques": 1
   },

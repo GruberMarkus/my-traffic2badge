@@ -2,8 +2,8 @@
   {
     "path": "/GruberMarkus/Export-RecipientPermissions",
     "title": "GruberMarkus/Export-RecipientPermissions: Document Exchange mailbox access ri...",
-    "count": 124,
-    "uniques": 50
+    "count": 114,
+    "uniques": 46
   },
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/releases",
@@ -32,8 +32,8 @@
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/tree/main/src",
     "title": "Export-RecipientPermissions/src at main · GruberMarkus/Export-RecipientPermis...",
-    "count": 8,
-    "uniques": 5
+    "count": 7,
+    "uniques": 4
   },
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/find/main",
@@ -44,19 +44,19 @@
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/blob/main/src/Export-RecipientPermissions.ps1",
     "title": "Export-RecipientPermissions/Export-RecipientPermissions.ps1 at main · GruberM...",
-    "count": 6,
-    "uniques": 4
-  },
-  {
-    "path": "/GruberMarkus/Export-RecipientPermissions/tree/main/docs",
-    "title": "Export-RecipientPermissions/docs at main · GruberMarkus/Export-RecipientPermi...",
-    "count": 4,
-    "uniques": 4
+    "count": 5,
+    "uniques": 3
   },
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/tree/develop",
     "title": "GruberMarkus/Export-RecipientPermissions at develop",
     "count": 4,
     "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Export-RecipientPermissions/tree/main/docs",
+    "title": "Export-RecipientPermissions/docs at main · GruberMarkus/Export-RecipientPermi...",
+    "count": 3,
+    "uniques": 3
   }
 ]

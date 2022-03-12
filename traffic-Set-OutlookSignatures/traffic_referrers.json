@@ -1,12 +1,12 @@
 [
   {
     "referrer": "Google",
-    "count": 154,
-    "uniques": 56
+    "count": 158,
+    "uniques": 60
   },
   {
     "referrer": "github.com",
-    "count": 65,
+    "count": 89,
     "uniques": 22
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "referrer": "doku.seu.sozvers.at",
-    "count": 9,
+    "count": 10,
     "uniques": 3
   },
   {
