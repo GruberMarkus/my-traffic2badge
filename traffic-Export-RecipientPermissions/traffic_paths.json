@@ -3,7 +3,7 @@
     "path": "/GruberMarkus/Export-RecipientPermissions",
     "title": "GruberMarkus/Export-RecipientPermissions: Document Exchange mailbox access ri...",
     "count": 114,
-    "uniques": 46
+    "uniques": 41
   },
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/releases",
@@ -42,6 +42,12 @@
     "uniques": 3
   },
   {
+    "path": "/GruberMarkus/Export-RecipientPermissions/releases/tag/v1.3.0",
+    "title": "Release Release v1.3.0 · GruberMarkus/Export-RecipientPermissions · GitHub",
+    "count": 6,
+    "uniques": 4
+  },
+  {
     "path": "/GruberMarkus/Export-RecipientPermissions/blob/main/src/Export-RecipientPermissions.ps1",
     "title": "Export-RecipientPermissions/Export-RecipientPermissions.ps1 at main · GruberM...",
     "count": 5,
@@ -52,11 +58,5 @@
     "title": "GruberMarkus/Export-RecipientPermissions at develop",
     "count": 4,
     "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/Export-RecipientPermissions/tree/main/docs",
-    "title": "Export-RecipientPermissions/docs at main · GruberMarkus/Export-RecipientPermi...",
-    "count": 3,
-    "uniques": 3
   }
 ]

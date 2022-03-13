@@ -1,8 +1,8 @@
 [
   {
     "referrer": "linkedin.com",
-    "count": 29,
-    "uniques": 19
+    "count": 24,
+    "uniques": 15
   },
   {
     "referrer": "github.com",
@@ -11,7 +11,7 @@
   },
   {
     "referrer": "com.linkedin.android",
-    "count": 7,
+    "count": 8,
     "uniques": 5
   },
   {
