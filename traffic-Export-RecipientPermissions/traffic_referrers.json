@@ -1,22 +1,22 @@
 [
   {
-    "referrer": "linkedin.com",
-    "count": 24,
-    "uniques": 15
-  },
-  {
     "referrer": "github.com",
     "count": 15,
     "uniques": 6
   },
   {
-    "referrer": "com.linkedin.android",
-    "count": 8,
-    "uniques": 5
+    "referrer": "linkedin.com",
+    "count": 13,
+    "uniques": 10
   },
   {
     "referrer": "lnkd.in",
     "count": 5,
     "uniques": 2
+  },
+  {
+    "referrer": "com.linkedin.android",
+    "count": 4,
+    "uniques": 3
   }
 ]
