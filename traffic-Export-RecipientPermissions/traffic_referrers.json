@@ -1,13 +1,13 @@
 [
   {
-    "referrer": "github.com",
-    "count": 13,
-    "uniques": 5
+    "referrer": "linkedin.com",
+    "count": 12,
+    "uniques": 10
   },
   {
-    "referrer": "linkedin.com",
+    "referrer": "github.com",
     "count": 11,
-    "uniques": 9
+    "uniques": 5
   },
   {
     "referrer": "lnkd.in",

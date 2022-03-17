@@ -1,21 +1,21 @@
 [
   {
-    "path": "/GruberMarkus/my-traffic2badge",
-    "title": "GruberMarkus/my-traffic2badge",
-    "count": 31,
-    "uniques": 3
-  },
-  {
-    "path": "/GruberMarkus/my-traffic2badge/blob/workflows/.github/workflows/traffic2badge.yml",
-    "title": "my-traffic2badge/traffic2badge.yml at workflows · GruberMarkus/my-traffic2badge",
-    "count": 30,
-    "uniques": 1
-  },
-  {
     "path": "/GruberMarkus/my-traffic2badge/actions",
     "title": "Actions · GruberMarkus/my-traffic2badge",
     "count": 29,
     "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/blob/workflows/.github/workflows/traffic2badge.yml",
+    "title": "my-traffic2badge/traffic2badge.yml at workflows · GruberMarkus/my-traffic2badge",
+    "count": 29,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge",
+    "title": "GruberMarkus/my-traffic2badge",
+    "count": 28,
+    "uniques": 3
   },
   {
     "path": "/GruberMarkus/my-traffic2badge/actions/workflows/traffic2badge.yml",
@@ -26,19 +26,19 @@
   {
     "path": "/GruberMarkus/my-traffic2badge/edit/workflows/.github/workflows/traffic2badge.yml",
     "title": "Editing my-traffic2badge/traffic2badge.yml at workflows · GruberMarkus/my-tra...",
-    "count": 17,
+    "count": 16,
     "uniques": 1
   },
   {
     "path": "/GruberMarkus/my-traffic2badge/tree/workflows/.github",
     "title": "my-traffic2badge/.github at workflows · GruberMarkus/my-traffic2badge",
-    "count": 15,
+    "count": 14,
     "uniques": 1
   },
   {
     "path": "/GruberMarkus/my-traffic2badge/tree/workflows/.github/workflows",
     "title": "my-traffic2badge/.github/workflows at workflows · GruberMarkus/my-traffic2badge",
-    "count": 15,
+    "count": 14,
     "uniques": 1
   },
   {
@@ -48,14 +48,14 @@
     "uniques": 2
   },
   {
-    "path": "/GruberMarkus/my-traffic2badge/branches",
-    "title": "Branches · GruberMarkus/my-traffic2badge · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/GruberMarkus/my-traffic2badge/actions/runs/1937936600",
     "title": "Update traffic2badge.yml · GruberMarkus/my-traffic2badge@98b1ffb",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/actions/runs/1937984913",
+    "title": "traffic2badge · GruberMarkus/my-traffic2badge@7cef3ab",
     "count": 2,
     "uniques": 1
   }

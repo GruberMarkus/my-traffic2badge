@@ -2,37 +2,19 @@
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/blob/main/Build-OSCamForWindows.ps1",
     "title": "Build-OSCamForWindows/Build-OSCamForWindows.ps1 at main · GruberMarkus/Build-...",
-    "count": 32,
-    "uniques": 7
+    "count": 30,
+    "uniques": 9
   },
   {
     "path": "/GruberMarkus/Build-OSCamForWindows",
-    "title": "GitHub - GruberMarkus/Build-OSCamForWindows: Fully automate building OSCam fo...",
+    "title": "GruberMarkus/Build-OSCamForWindows: Fully automate building OSCam for Windows...",
     "count": 23,
     "uniques": 15
   },
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/commit/c4139232a4b248a30fe9af184f35b9921f8d8814",
     "title": "Compile with CONF_DIR=./ · GruberMarkus/Build-OSCamForWindows@c413923 · GitHub",
-    "count": 6,
-    "uniques": 5
-  },
-  {
-    "path": "/GruberMarkus/Build-OSCamForWindows/blob/c4139232a4b248a30fe9af184f35b9921f8d8814/Build-OSCamForWindows.ps1",
-    "title": "Build-OSCamForWindows/Build-OSCamForWindows.ps1 at c4139232a4b248a30fe9af184f...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/Build-OSCamForWindows/find/c4139232a4b248a30fe9af184f35b9921f8d8814",
-    "title": "File Finder · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/Build-OSCamForWindows/tree/c4139232a4b248a30fe9af184f35b9921f8d8814",
-    "title": "GitHub - GruberMarkus/Build-OSCamForWindows at c4139232a4b248a30fe9af184f35b9...",
-    "count": 1,
-    "uniques": 1
+    "count": 5,
+    "uniques": 4
   }
 ]
