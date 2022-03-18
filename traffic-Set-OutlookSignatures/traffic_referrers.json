@@ -1,23 +1,23 @@
 [
   {
     "referrer": "github.com",
-    "count": 144,
-    "uniques": 29
+    "count": 127,
+    "uniques": 25
   },
   {
     "referrer": "Google",
-    "count": 142,
-    "uniques": 54
+    "count": 107,
+    "uniques": 52
   },
   {
     "referrer": "reddit.com",
-    "count": 20,
-    "uniques": 18
+    "count": 18,
+    "uniques": 17
   },
   {
     "referrer": "StartPage",
-    "count": 12,
-    "uniques": 4
+    "count": 11,
+    "uniques": 3
   },
   {
     "referrer": "doku.seu.sozvers.at",
@@ -31,8 +31,13 @@
   },
   {
     "referrer": "linkedin.com",
-    "count": 4,
+    "count": 5,
     "uniques": 3
+  },
+  {
+    "referrer": "old.reddit.com",
+    "count": 4,
+    "uniques": 4
   },
   {
     "referrer": "DuckDuckGo",
@@ -40,12 +45,7 @@
     "uniques": 1
   },
   {
-    "referrer": "old.reddit.com",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "referrer": "Bing",
+    "referrer": "jira.corp.phishme.com",
     "count": 2,
     "uniques": 1
   }
