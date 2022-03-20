@@ -2,20 +2,8 @@
   {
     "path": "/GruberMarkus/Export-RecipientPermissions",
     "title": "GruberMarkus/Export-RecipientPermissions: Document Exchange mailbox access ri...",
-    "count": 52,
-    "uniques": 25
-  },
-  {
-    "path": "/GruberMarkus/Export-RecipientPermissions/releases",
-    "title": "Releases · GruberMarkus/Export-RecipientPermissions · GitHub",
-    "count": 8,
-    "uniques": 2
-  },
-  {
-    "path": "/GruberMarkus/Export-RecipientPermissions/pulls",
-    "title": "Pull requests · GruberMarkus/Export-RecipientPermissions",
-    "count": 8,
-    "uniques": 1
+    "count": 45,
+    "uniques": 26
   },
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/releases/tag/v1.3.0",
@@ -24,16 +12,10 @@
     "uniques": 4
   },
   {
-    "path": "/GruberMarkus/Export-RecipientPermissions/tags",
-    "title": "Tags · GruberMarkus/Export-RecipientPermissions",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/Export-RecipientPermissions/actions",
-    "title": "Actions · GruberMarkus/Export-RecipientPermissions",
+    "path": "/GruberMarkus/Export-RecipientPermissions/releases",
+    "title": "Releases · GruberMarkus/Export-RecipientPermissions · GitHub",
     "count": 3,
-    "uniques": 1
+    "uniques": 2
   },
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/tree/main/src",
@@ -42,8 +24,8 @@
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/Export-RecipientPermissions/pull/5",
-    "title": "v1.3.0 by GruberMarkus · Pull Request #5 · GruberMarkus/Export-RecipientPermi...",
+    "path": "/GruberMarkus/Export-RecipientPermissions/pulls",
+    "title": "Pull requests · GruberMarkus/Export-RecipientPermissions",
     "count": 2,
     "uniques": 1
   },
@@ -54,8 +36,20 @@
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/Export-RecipientPermissions/actions/runs/1941663378",
-    "title": "v1.3.0 · GruberMarkus/Export-RecipientPermissions@91f5438",
+    "path": "/GruberMarkus/Export-RecipientPermissions/blob/main/src/LICENSE.txt",
+    "title": "Export-RecipientPermissions/LICENSE.txt at main · GruberMarkus/Export-Recipie...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Export-RecipientPermissions/commit/910b1445770f2b917e4d89151deaa86f478ca6a6",
+    "title": "perf: refactoring · GruberMarkus/Export-RecipientPermissions@910b144 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Export-RecipientPermissions/pull/6",
+    "title": "Bump gittools/actions from 0.9.11 to 0.9.13 by dependabot[bot] · Pull Request...",
     "count": 1,
     "uniques": 1
   }
