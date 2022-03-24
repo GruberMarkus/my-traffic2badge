@@ -2,19 +2,61 @@
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/blob/main/Build-OSCamForWindows.ps1",
     "title": "Build-OSCamForWindows/Build-OSCamForWindows.ps1 at main · GruberMarkus/Build-...",
-    "count": 19,
-    "uniques": 7
+    "count": 23,
+    "uniques": 10
   },
   {
     "path": "/GruberMarkus/Build-OSCamForWindows",
     "title": "GruberMarkus/Build-OSCamForWindows: Fully automate building OSCam for Windows...",
-    "count": 12,
-    "uniques": 10
+    "count": 18,
+    "uniques": 11
+  },
+  {
+    "path": "/GruberMarkus/Build-OSCamForWindows/issues",
+    "title": "Issues · GruberMarkus/Build-OSCamForWindows",
+    "count": 5,
+    "uniques": 2
+  },
+  {
+    "path": "/GruberMarkus/Build-OSCamForWindows/find/main",
+    "title": "File Finder · GitHub",
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/commit/c4139232a4b248a30fe9af184f35b9921f8d8814",
     "title": "Compile with CONF_DIR=./ · GruberMarkus/Build-OSCamForWindows@c413923 · GitHub",
-    "count": 2,
-    "uniques": 2
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/GruberMarkus/Build-OSCamForWindows/commit/98e20adb91c28224edb115e3c079d821a5976fc4",
+    "title": "Add build process logging and oscm-buildlog.txt · GruberMarkus/Build-OSCamFor...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Build-OSCamForWindows/commits/main",
+    "title": "Commits · GruberMarkus/Build-OSCamForWindows · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Build-OSCamForWindows/issues/1",
+    "title": "wrong conf dir is used · Issue #1 · GruberMarkus/Build-OSCamForWindows · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Build-OSCamForWindows/issues/2",
+    "title": "i can't build · Issue #2 · GruberMarkus/Build-OSCamForWindows",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Build-OSCamForWindows/issues/new",
+    "title": "New Issue · GruberMarkus/Build-OSCamForWindows",
+    "count": 1,
+    "uniques": 1
   }
 ]
