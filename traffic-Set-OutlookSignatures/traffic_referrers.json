@@ -1,33 +1,23 @@
 [
   {
     "referrer": "github.com",
-    "count": 159,
-    "uniques": 24
+    "count": 149,
+    "uniques": 22
   },
   {
     "referrer": "Google",
-    "count": 125,
-    "uniques": 60
+    "count": 135,
+    "uniques": 64
   },
   {
     "referrer": "reddit.com",
-    "count": 23,
-    "uniques": 16
-  },
-  {
-    "referrer": "StartPage",
-    "count": 10,
-    "uniques": 2
+    "count": 14,
+    "uniques": 9
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 10,
+    "count": 13,
     "uniques": 1
-  },
-  {
-    "referrer": "old.reddit.com",
-    "count": 4,
-    "uniques": 4
   },
   {
     "referrer": "libhunt.com",
@@ -35,8 +25,8 @@
     "uniques": 1
   },
   {
-    "referrer": "Bing",
-    "count": 3,
+    "referrer": "old.reddit.com",
+    "count": 2,
     "uniques": 2
   },
   {
@@ -45,8 +35,18 @@
     "uniques": 1
   },
   {
-    "referrer": "linkedin.com",
+    "referrer": "jira.corp.phishme.com",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "github.lzdflzy.club",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "joinup.ec.europa.eu",
+    "count": 1,
     "uniques": 1
   }
 ]
