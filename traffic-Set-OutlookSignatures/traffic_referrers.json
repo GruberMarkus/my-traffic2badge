@@ -1,18 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 149,
-    "uniques": 22
+    "count": 160,
+    "uniques": 25
   },
   {
     "referrer": "Google",
-    "count": 135,
-    "uniques": 64
-  },
-  {
-    "referrer": "reddit.com",
-    "count": 14,
-    "uniques": 9
+    "count": 155,
+    "uniques": 74
   },
   {
     "referrer": "DuckDuckGo",
@@ -20,9 +15,14 @@
     "uniques": 1
   },
   {
+    "referrer": "reddit.com",
+    "count": 12,
+    "uniques": 7
+  },
+  {
     "referrer": "libhunt.com",
-    "count": 4,
-    "uniques": 1
+    "count": 7,
+    "uniques": 3
   },
   {
     "referrer": "old.reddit.com",
