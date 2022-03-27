@@ -1,28 +1,33 @@
 [
   {
     "referrer": "github.com",
-    "count": 160,
-    "uniques": 25
+    "count": 187,
+    "uniques": 27
   },
   {
     "referrer": "Google",
-    "count": 155,
-    "uniques": 74
+    "count": 186,
+    "uniques": 83
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 13,
+    "count": 17,
     "uniques": 1
   },
   {
     "referrer": "reddit.com",
-    "count": 12,
-    "uniques": 7
+    "count": 14,
+    "uniques": 9
   },
   {
     "referrer": "libhunt.com",
     "count": 7,
     "uniques": 3
+  },
+  {
+    "referrer": "Bing",
+    "count": 4,
+    "uniques": 2
   },
   {
     "referrer": "old.reddit.com",
@@ -37,11 +42,6 @@
   {
     "referrer": "jira.corp.phishme.com",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "github.lzdflzy.club",
-    "count": 1,
     "uniques": 1
   },
   {

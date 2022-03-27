@@ -2,13 +2,13 @@
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/blob/main/Build-OSCamForWindows.ps1",
     "title": "Build-OSCamForWindows/Build-OSCamForWindows.ps1 at main · GruberMarkus/Build-...",
-    "count": 35,
-    "uniques": 11
+    "count": 33,
+    "uniques": 10
   },
   {
     "path": "/GruberMarkus/Build-OSCamForWindows",
     "title": "GruberMarkus/Build-OSCamForWindows: Fully automate building OSCam for Windows...",
-    "count": 28,
+    "count": 30,
     "uniques": 13
   },
   {
@@ -26,14 +26,8 @@
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/find/main",
     "title": "File Finder · GitHub",
-    "count": 5,
-    "uniques": 3
-  },
-  {
-    "path": "/GruberMarkus/Build-OSCamForWindows/commit/c4139232a4b248a30fe9af184f35b9921f8d8814",
-    "title": "Compile with CONF_DIR=./ · GruberMarkus/Build-OSCamForWindows@c413923 · GitHub",
-    "count": 3,
-    "uniques": 3
+    "count": 7,
+    "uniques": 4
   },
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/issues/1",
@@ -50,6 +44,12 @@
   {
     "path": "/GruberMarkus/Build-OSCamForWindows/commit/98e20adb91c28224edb115e3c079d821a5976fc4",
     "title": "Add build process logging and oscm-buildlog.txt · GruberMarkus/Build-OSCamFor...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Build-OSCamForWindows/commit/c4139232a4b248a30fe9af184f35b9921f8d8814",
+    "title": "Compile with CONF_DIR=./ · GruberMarkus/Build-OSCamForWindows@c413923 · GitHub",
     "count": 1,
     "uniques": 1
   },

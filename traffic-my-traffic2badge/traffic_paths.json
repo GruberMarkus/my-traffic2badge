@@ -2,7 +2,13 @@
   {
     "path": "/GruberMarkus/my-traffic2badge",
     "title": "GruberMarkus/my-traffic2badge",
-    "count": 1,
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/tree/traffic",
+    "title": "GruberMarkus/my-traffic2badge at traffic",
+    "count": 2,
     "uniques": 1
   },
   {
@@ -18,8 +24,8 @@
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/my-traffic2badge/tree/traffic",
-    "title": "GruberMarkus/my-traffic2badge at traffic",
+    "path": "/GruberMarkus/my-traffic2badge/tree/traffic/traffic-Set-OutlookSignatures",
+    "title": "my-traffic2badge/traffic-Set-OutlookSignatures at traffic · GruberMarkus/my-t...",
     "count": 1,
     "uniques": 1
   },
