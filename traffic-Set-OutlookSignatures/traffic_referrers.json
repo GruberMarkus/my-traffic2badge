@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 165,
-    "uniques": 27
+    "count": 145,
+    "uniques": 24
   },
   {
     "referrer": "Google",
-    "count": 159,
-    "uniques": 74
+    "count": 140,
+    "uniques": 68
   },
   {
     "referrer": "DuckDuckGo",
@@ -40,12 +40,12 @@
     "uniques": 1
   },
   {
-    "referrer": "jira.corp.phishme.com",
-    "count": 2,
+    "referrer": "com.linkedin.android",
+    "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "joinup.ec.europa.eu",
+    "referrer": "github.lzdflzy.club",
     "count": 1,
     "uniques": 1
   }
