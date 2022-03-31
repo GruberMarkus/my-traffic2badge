@@ -1,13 +1,13 @@
 [
   {
-    "referrer": "Google",
-    "count": 161,
-    "uniques": 78
+    "referrer": "github.com",
+    "count": 169,
+    "uniques": 29
   },
   {
-    "referrer": "github.com",
-    "count": 148,
-    "uniques": 26
+    "referrer": "Google",
+    "count": 141,
+    "uniques": 75
   },
   {
     "referrer": "DuckDuckGo",
@@ -16,13 +16,8 @@
   },
   {
     "referrer": "reddit.com",
-    "count": 11,
-    "uniques": 6
-  },
-  {
-    "referrer": "libhunt.com",
-    "count": 7,
-    "uniques": 3
+    "count": 12,
+    "uniques": 7
   },
   {
     "referrer": "Bing",
@@ -30,8 +25,13 @@
     "uniques": 2
   },
   {
-    "referrer": "mail.tekmeria.net",
-    "count": 2,
+    "referrer": "libhunt.com",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "referrer": "joinup.ec.europa.eu",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -40,7 +40,12 @@
     "uniques": 1
   },
   {
-    "referrer": "joinup.ec.europa.eu",
+    "referrer": "mobile.kgkk.at",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "doku.seu.sozvers.at",
     "count": 1,
     "uniques": 1
   }
