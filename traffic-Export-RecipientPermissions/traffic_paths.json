@@ -2,14 +2,8 @@
   {
     "path": "/GruberMarkus/Export-RecipientPermissions",
     "title": "GruberMarkus/Export-RecipientPermissions: Document Exchange mailbox access ri...",
-    "count": 23,
-    "uniques": 13
-  },
-  {
-    "path": "/GruberMarkus/Export-RecipientPermissions/pulls",
-    "title": "Pull requests · GruberMarkus/Export-RecipientPermissions",
-    "count": 2,
-    "uniques": 1
+    "count": 18,
+    "uniques": 10
   },
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/releases",
@@ -26,18 +20,6 @@
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/issues",
     "title": "Issues · GruberMarkus/Export-RecipientPermissions",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/Export-RecipientPermissions/pull/6",
-    "title": "Bump gittools/actions from 0.9.11 to 0.9.13 by dependabot[bot] · Pull Request...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/Export-RecipientPermissions/releases/tag/v1.3.0",
-    "title": "Release Release v1.3.0 · GruberMarkus/Export-RecipientPermissions",
     "count": 1,
     "uniques": 1
   },
