@@ -1,13 +1,13 @@
 [
   {
-    "referrer": "github.com",
-    "count": 161,
-    "uniques": 32
+    "referrer": "Google",
+    "count": 177,
+    "uniques": 91
   },
   {
-    "referrer": "Google",
-    "count": 157,
-    "uniques": 81
+    "referrer": "github.com",
+    "count": 162,
+    "uniques": 33
   },
   {
     "referrer": "DuckDuckGo",
@@ -40,12 +40,12 @@
     "uniques": 1
   },
   {
-    "referrer": "com.linkedin.android",
+    "referrer": "mobile.kgkk.at",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "mobile.kgkk.at",
+    "referrer": "com.linkedin.android",
     "count": 1,
     "uniques": 1
   }
