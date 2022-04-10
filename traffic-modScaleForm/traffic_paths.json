@@ -2,19 +2,13 @@
   {
     "path": "/GruberMarkus/modScaleForm",
     "title": "GruberMarkus/modScaleForm: Resize Microsoft Access forms and scale the contro...",
-    "count": 10,
-    "uniques": 4
-  },
-  {
-    "path": "/GruberMarkus/modScaleForm/blob/master/modScaleForm-sample-database.accdb",
-    "title": "modScaleForm/modScaleForm-sample-database.accdb at master · GruberMarkus/modS...",
     "count": 5,
     "uniques": 3
   },
   {
-    "path": "/GruberMarkus/modScaleForm/blob/master/modScaleForm.bas",
-    "title": "modScaleForm/modScaleForm.bas at master · GruberMarkus/modScaleForm · GitHub",
-    "count": 5,
+    "path": "/GruberMarkus/modScaleForm/blob/master/modScaleForm-sample-database.accdb",
+    "title": "modScaleForm/modScaleForm-sample-database.accdb at master · GruberMarkus/modS...",
+    "count": 2,
     "uniques": 2
   },
   {
@@ -24,8 +18,8 @@
     "uniques": 2
   },
   {
-    "path": "/GruberMarkus/modScaleForm/blame/master/modScaleForm.bas",
-    "title": "modScaleForm/modScaleForm.bas at master · GruberMarkus/modScaleForm · GitHub",
+    "path": "/GruberMarkus/modScaleForm/blob/master/modScaleForm.bas",
+    "title": "modScaleForm/modScaleForm.bas at master · GruberMarkus/modScaleForm",
     "count": 1,
     "uniques": 1
   }
