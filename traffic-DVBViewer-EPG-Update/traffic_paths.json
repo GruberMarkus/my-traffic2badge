@@ -12,12 +12,6 @@
     "uniques": 3
   },
   {
-    "path": "/GruberMarkus/DVBViewer-EPG-Update/blob/master/changelog.txt",
-    "title": "DVBViewer-EPG-Update/changelog.txt at master · GruberMarkus/DVBViewer-EPG-Upd...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/GruberMarkus/DVBViewer-EPG-Update/blob/master/readme.txt",
     "title": "DVBViewer-EPG-Update/readme.txt at master · GruberMarkus/DVBViewer-EPG-Update...",
     "count": 2,
@@ -39,6 +33,12 @@
     "path": "/GruberMarkus/DVBViewer-EPG-Update/commits/master",
     "title": "Commits · GruberMarkus/DVBViewer-EPG-Update · GitHub",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/DVBViewer-EPG-Update/blob/master/changelog.txt",
+    "title": "DVBViewer-EPG-Update/changelog.txt at master · GruberMarkus/DVBViewer-EPG-Upd...",
+    "count": 1,
     "uniques": 1
   },
   {
