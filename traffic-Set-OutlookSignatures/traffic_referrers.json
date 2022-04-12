@@ -1,23 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 152,
-    "uniques": 74
+    "count": 141,
+    "uniques": 69
   },
   {
     "referrer": "github.com",
-    "count": 145,
-    "uniques": 32
-  },
-  {
-    "referrer": "reddit.com",
-    "count": 5,
-    "uniques": 5
+    "count": 116,
+    "uniques": 25
   },
   {
     "referrer": "linkedin.com",
+    "count": 6,
+    "uniques": 5
+  },
+  {
+    "referrer": "reddit.com",
     "count": 4,
-    "uniques": 3
+    "uniques": 4
   },
   {
     "referrer": "DuckDuckGo",
@@ -40,12 +40,12 @@
     "uniques": 1
   },
   {
-    "referrer": "doku.seu.sozvers.at",
+    "referrer": "libhunt.com",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "libhunt.com",
+    "referrer": "instapaper.com",
     "count": 1,
     "uniques": 1
   }
