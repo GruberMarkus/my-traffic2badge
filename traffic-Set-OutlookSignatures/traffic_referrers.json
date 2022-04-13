@@ -1,28 +1,23 @@
 [
   {
     "referrer": "Google",
-    "count": 141,
+    "count": 175,
     "uniques": 69
   },
   {
     "referrer": "github.com",
-    "count": 116,
-    "uniques": 25
-  },
-  {
-    "referrer": "linkedin.com",
-    "count": 6,
-    "uniques": 5
+    "count": 109,
+    "uniques": 23
   },
   {
     "referrer": "reddit.com",
-    "count": 4,
-    "uniques": 4
+    "count": 5,
+    "uniques": 5
   },
   {
-    "referrer": "DuckDuckGo",
-    "count": 3,
-    "uniques": 1
+    "referrer": "linkedin.com",
+    "count": 5,
+    "uniques": 4
   },
   {
     "referrer": "helpdesk.atecto.de",
@@ -31,11 +26,6 @@
   },
   {
     "referrer": "Bing",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "StartPage",
     "count": 1,
     "uniques": 1
   },
