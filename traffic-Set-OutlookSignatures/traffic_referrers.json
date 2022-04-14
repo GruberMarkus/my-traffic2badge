@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 175,
-    "uniques": 69
+    "count": 174,
+    "uniques": 72
   },
   {
     "referrer": "github.com",
-    "count": 109,
-    "uniques": 23
+    "count": 106,
+    "uniques": 20
   },
   {
     "referrer": "reddit.com",
@@ -16,26 +16,21 @@
   },
   {
     "referrer": "linkedin.com",
-    "count": 5,
+    "count": 4,
     "uniques": 4
   },
   {
-    "referrer": "helpdesk.atecto.de",
+    "referrer": "libhunt.com",
     "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "instapaper.com",
+    "count": 1,
     "uniques": 1
   },
   {
     "referrer": "Bing",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "libhunt.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "instapaper.com",
     "count": 1,
     "uniques": 1
   }
