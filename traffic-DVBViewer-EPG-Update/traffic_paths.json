@@ -2,18 +2,30 @@
   {
     "path": "/GruberMarkus/DVBViewer-EPG-Update/blob/master/DVBViewer-EPG-Update.vbs",
     "title": "DVBViewer-EPG-Update/DVBViewer-EPG-Update.vbs at master · GruberMarkus/DVBVie...",
-    "count": 8,
-    "uniques": 6
+    "count": 9,
+    "uniques": 7
   },
   {
     "path": "/GruberMarkus/DVBViewer-EPG-Update",
     "title": "GruberMarkus/DVBViewer-EPG-Update: DVBViewer EPG update script",
-    "count": 3,
-    "uniques": 3
+    "count": 6,
+    "uniques": 4
   },
   {
     "path": "/GruberMarkus/DVBViewer-EPG-Update/blob/master/de.ini",
     "title": "DVBViewer-EPG-Update/de.ini at master · GruberMarkus/DVBViewer-EPG-Update · G...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/GruberMarkus/DVBViewer-EPG-Update/blob/master/changelog.txt",
+    "title": "DVBViewer-EPG-Update/changelog.txt at master · GruberMarkus/DVBViewer-EPG-Upd...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/DVBViewer-EPG-Update/blob/master/en.ini",
+    "title": "DVBViewer-EPG-Update/en.ini at master · GruberMarkus/DVBViewer-EPG-Update · G...",
     "count": 1,
     "uniques": 1
   },
@@ -26,6 +38,24 @@
   {
     "path": "/GruberMarkus/DVBViewer-EPG-Update/blob/master/sample.ini",
     "title": "DVBViewer-EPG-Update/sample.ini at master · GruberMarkus/DVBViewer-EPG-Update",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/DVBViewer-EPG-Update/branches",
+    "title": "Branches · GruberMarkus/DVBViewer-EPG-Update · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/DVBViewer-EPG-Update/branches/active",
+    "title": "Branches · GruberMarkus/DVBViewer-EPG-Update · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/DVBViewer-EPG-Update/branches/stale",
+    "title": "Branches · GruberMarkus/DVBViewer-EPG-Update · GitHub",
     "count": 1,
     "uniques": 1
   }
