@@ -8,20 +8,20 @@
   {
     "path": "/GruberMarkus/DVBViewer-EPG-Update",
     "title": "GruberMarkus/DVBViewer-EPG-Update: DVBViewer EPG update script",
-    "count": 6,
-    "uniques": 4
+    "count": 8,
+    "uniques": 5
+  },
+  {
+    "path": "/GruberMarkus/DVBViewer-EPG-Update/blob/master/changelog.txt",
+    "title": "DVBViewer-EPG-Update/changelog.txt at master · GruberMarkus/DVBViewer-EPG-Upd...",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/GruberMarkus/DVBViewer-EPG-Update/blob/master/de.ini",
     "title": "DVBViewer-EPG-Update/de.ini at master · GruberMarkus/DVBViewer-EPG-Update · G...",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/GruberMarkus/DVBViewer-EPG-Update/blob/master/changelog.txt",
-    "title": "DVBViewer-EPG-Update/changelog.txt at master · GruberMarkus/DVBViewer-EPG-Upd...",
-    "count": 1,
-    "uniques": 1
   },
   {
     "path": "/GruberMarkus/DVBViewer-EPG-Update/blob/master/en.ini",
