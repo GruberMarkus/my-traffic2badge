@@ -18,12 +18,6 @@
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/Export-RecipientPermissions/blob/88bc3d6f217c3bfd6a66fcefec76a5cdf12c520d/src/Export-RecipientPermissions.ps1",
-    "title": "Export-RecipientPermissions/Export-RecipientPermissions.ps1 at 88bc3d6f217c3b...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/GruberMarkus/Export-RecipientPermissions/blob/main/build/build.ps1",
     "title": "Export-RecipientPermissions/build.ps1 at main · GruberMarkus/Export-Recipient...",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/tree/main/src",
     "title": "Export-RecipientPermissions/src at main · GruberMarkus/Export-RecipientPermis...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Export-RecipientPermissions/tree/main/src/sample%20code",
+    "title": "Export-RecipientPermissions/src/sample code at main · GruberMarkus/Export-Rec...",
     "count": 1,
     "uniques": 1
   }
