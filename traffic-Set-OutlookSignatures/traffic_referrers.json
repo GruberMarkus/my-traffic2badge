@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 158,
-    "uniques": 59
+    "count": 136,
+    "uniques": 54
   },
   {
     "referrer": "github.com",
-    "count": 82,
-    "uniques": 18
+    "count": 70,
+    "uniques": 16
   },
   {
     "referrer": "statics.teams.cdn.office.net",
@@ -23,6 +23,11 @@
     "referrer": "linkedin.com",
     "count": 3,
     "uniques": 3
+  },
+  {
+    "referrer": "joinup.ec.europa.eu",
+    "count": 3,
+    "uniques": 1
   },
   {
     "referrer": "libhunt.com",
