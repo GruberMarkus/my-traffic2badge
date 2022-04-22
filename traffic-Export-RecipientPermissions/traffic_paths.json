@@ -1,13 +1,25 @@
 [
   {
     "path": "/GruberMarkus/Export-RecipientPermissions",
-    "title": "GitHub - GruberMarkus/Export-RecipientPermissions: Document Exchange mailbox ...",
-    "count": 5,
-    "uniques": 4
+    "title": "GruberMarkus/Export-RecipientPermissions: Document Exchange mailbox access ri...",
+    "count": 9,
+    "uniques": 5
   },
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/blob/main/src/Export-RecipientPermissions.ps1",
     "title": "Export-RecipientPermissions/Export-RecipientPermissions.ps1 at main · GruberM...",
+    "count": 6,
+    "uniques": 3
+  },
+  {
+    "path": "/GruberMarkus/Export-RecipientPermissions/tree/main/src",
+    "title": "Export-RecipientPermissions/src at main · GruberMarkus/Export-RecipientPermis...",
+    "count": 6,
+    "uniques": 2
+  },
+  {
+    "path": "/GruberMarkus/Export-RecipientPermissions/tree/main/src/sample%20code",
+    "title": "Export-RecipientPermissions/src/sample code at main · GruberMarkus/Export-Rec...",
     "count": 2,
     "uniques": 2
   },
@@ -44,18 +56,6 @@
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/tree/main/.github",
     "title": "Export-RecipientPermissions/.github at main · GruberMarkus/Export-RecipientPe...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/Export-RecipientPermissions/tree/main/src",
-    "title": "Export-RecipientPermissions/src at main · GruberMarkus/Export-RecipientPermis...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/Export-RecipientPermissions/tree/main/src/sample%20code",
-    "title": "Export-RecipientPermissions/src/sample code at main · GruberMarkus/Export-Rec...",
     "count": 1,
     "uniques": 1
   }
