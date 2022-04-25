@@ -2,38 +2,26 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures",
     "title": "GruberMarkus/Set-OutlookSignatures: Centrally manage and deploy Outlook text ...",
-    "count": 247,
-    "uniques": 128
+    "count": 199,
+    "uniques": 110
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src",
     "title": "Set-OutlookSignatures/src at main · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 32,
-    "uniques": 20
+    "count": 23,
+    "uniques": 17
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/releases",
     "title": "Releases · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 26,
-    "uniques": 7
+    "count": 23,
+    "uniques": 6
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/issues",
     "title": "Issues · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 18,
-    "uniques": 6
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/build",
-    "title": "Set-OutlookSignatures/build at main · GruberMarkus/Set-OutlookSignatures · Gi...",
-    "count": 15,
-    "uniques": 10
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/docs",
-    "title": "Set-OutlookSignatures/docs at main · GruberMarkus/Set-OutlookSignatures · Git...",
-    "count": 14,
-    "uniques": 9
+    "count": 17,
+    "uniques": 5
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/releases/tag/v3.0.0",
@@ -42,21 +30,33 @@
     "uniques": 7
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/src/Set-OutlookSignatures.ps1",
-    "title": "Set-OutlookSignatures/Set-OutlookSignatures.ps1 at main · GruberMarkus/Set-Ou...",
-    "count": 11,
-    "uniques": 10
-  },
-  {
     "path": "/GruberMarkus/Set-OutlookSignatures/issues/36",
     "title": "Error from WINWORD, library not registered · Issue #36 · GruberMarkus/Set-Out...",
     "count": 10,
     "uniques": 2
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/docs/Implementation%20approach.md",
-    "title": "Set-OutlookSignatures/Implementation approach.md at main · GruberMarkus/Set-O...",
-    "count": 8,
-    "uniques": 3
+    "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/build",
+    "title": "Set-OutlookSignatures/build at main · GruberMarkus/Set-OutlookSignatures · Gi...",
+    "count": 9,
+    "uniques": 7
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/docs",
+    "title": "Set-OutlookSignatures/docs at main · GruberMarkus/Set-OutlookSignatures · Git...",
+    "count": 7,
+    "uniques": 6
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/src/Set-OutlookSignatures.ps1",
+    "title": "Set-OutlookSignatures/Set-OutlookSignatures.ps1 at main · GruberMarkus/Set-Ou...",
+    "count": 6,
+    "uniques": 6
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src/sample%20code",
+    "title": "Set-OutlookSignatures/src/sample code at main · GruberMarkus/Set-OutlookSigna...",
+    "count": 5,
+    "uniques": 4
   }
 ]

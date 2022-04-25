@@ -1,12 +1,12 @@
 [
   {
-    "referrer": "sourceforge.net",
-    "count": 5,
-    "uniques": 2
-  },
-  {
     "referrer": "github.com",
     "count": 3,
+    "uniques": 1
+  },
+  {
+    "referrer": "sourceforge.net",
+    "count": 1,
     "uniques": 1
   }
 ]
