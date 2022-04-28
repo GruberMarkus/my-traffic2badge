@@ -2,38 +2,32 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures",
     "title": "GruberMarkus/Set-OutlookSignatures: Centrally manage and deploy Outlook text ...",
-    "count": 184,
-    "uniques": 97
+    "count": 185,
+    "uniques": 100
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/releases",
-    "title": "Releases · GruberMarkus/Set-OutlookSignatures · GitHub",
+    "title": "Releases · GruberMarkus/Set-OutlookSignatures",
     "count": 24,
-    "uniques": 7
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/issues",
-    "title": "Issues · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 18,
     "uniques": 6
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src",
-    "title": "Set-OutlookSignatures/src at main · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 17,
-    "uniques": 13
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/releases/tag/v3.0.0",
     "title": "Release Release v3.0.0 · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 15,
-    "uniques": 8
+    "count": 19,
+    "uniques": 10
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/issues/36",
-    "title": "Error from WINWORD, library not registered · Issue #36 · GruberMarkus/Set-Out...",
-    "count": 10,
-    "uniques": 2
+    "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src",
+    "title": "Set-OutlookSignatures/src at main · GruberMarkus/Set-OutlookSignatures · GitHub",
+    "count": 14,
+    "uniques": 11
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/issues",
+    "title": "Issues · GruberMarkus/Set-OutlookSignatures · GitHub",
+    "count": 14,
+    "uniques": 5
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/build",
@@ -48,10 +42,16 @@
     "uniques": 7
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src/sample%20code",
-    "title": "Set-OutlookSignatures/src/sample code at main · GruberMarkus/Set-OutlookSigna...",
+    "path": "/GruberMarkus/Set-OutlookSignatures/issues/36",
+    "title": "Error from WINWORD, library not registered · Issue #36 · GruberMarkus/Set-Out...",
+    "count": 6,
+    "uniques": 2
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/discussions",
+    "title": "Discussions · GruberMarkus/Set-OutlookSignatures · GitHub",
     "count": 4,
-    "uniques": 4
+    "uniques": 3
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/actions",
