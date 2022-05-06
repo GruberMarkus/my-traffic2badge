@@ -2,7 +2,7 @@
   {
     "path": "/GruberMarkus/Build-OSCamForWindows",
     "title": "GruberMarkus/Build-OSCamForWindows: Fully automate building OSCam for Windows...",
-    "count": 22,
+    "count": 23,
     "uniques": 13
   },
   {
@@ -10,11 +10,5 @@
     "title": "Build-OSCamForWindows/Build-OSCamForWindows.ps1 at main · GruberMarkus/Build-...",
     "count": 16,
     "uniques": 10
-  },
-  {
-    "path": "/GruberMarkus/Build-OSCamForWindows/commit/7c7b03714cd4d0bc7396f814fcd63cbc1135cf61",
-    "title": "feat: Use \"-AsByteStream\" instead of \"-encoding Byte\" on PowerShell Core · Gr...",
-    "count": 1,
-    "uniques": 1
   }
 ]
