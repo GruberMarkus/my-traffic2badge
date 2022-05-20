@@ -1,17 +1,17 @@
 [
   {
     "referrer": "Google",
-    "count": 126,
-    "uniques": 60
+    "count": 140,
+    "uniques": 69
   },
   {
     "referrer": "github.com",
-    "count": 45,
-    "uniques": 20
+    "count": 71,
+    "uniques": 26
   },
   {
     "referrer": "reddit.com",
-    "count": 21,
+    "count": 22,
     "uniques": 8
   },
   {
@@ -32,11 +32,6 @@
   {
     "referrer": "DuckDuckGo",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "doku.seu.sozvers.at",
-    "count": 1,
     "uniques": 1
   }
 ]
