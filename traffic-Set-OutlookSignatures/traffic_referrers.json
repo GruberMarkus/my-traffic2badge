@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 125,
-    "uniques": 68
+    "count": 124,
+    "uniques": 66
   },
   {
     "referrer": "github.com",
@@ -11,8 +11,8 @@
   },
   {
     "referrer": "reddit.com",
-    "count": 23,
-    "uniques": 8
+    "count": 21,
+    "uniques": 6
   },
   {
     "referrer": "joinup.ec.europa.eu",
@@ -25,17 +25,17 @@
     "uniques": 2
   },
   {
+    "referrer": "DuckDuckGo",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "referrer": "out.reddit.com",
     "count": 1,
     "uniques": 1
   },
   {
     "referrer": "com.linkedin.android",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "DuckDuckGo",
     "count": 1,
     "uniques": 1
   }
