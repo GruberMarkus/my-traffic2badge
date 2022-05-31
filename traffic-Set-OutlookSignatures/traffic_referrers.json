@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 142,
-    "uniques": 66
+    "count": 128,
+    "uniques": 60
   },
   {
     "referrer": "github.com",
@@ -11,18 +11,18 @@
   },
   {
     "referrer": "reddit.com",
-    "count": 21,
-    "uniques": 6
-  },
-  {
-    "referrer": "joinup.ec.europa.eu",
-    "count": 5,
-    "uniques": 3
+    "count": 20,
+    "uniques": 5
   },
   {
     "referrer": "out.reddit.com",
     "count": 4,
     "uniques": 2
+  },
+  {
+    "referrer": "joinup.ec.europa.eu",
+    "count": 3,
+    "uniques": 3
   },
   {
     "referrer": "DuckDuckGo",
