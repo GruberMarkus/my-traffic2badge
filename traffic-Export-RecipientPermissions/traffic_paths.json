@@ -2,13 +2,13 @@
   {
     "path": "/GruberMarkus/Export-RecipientPermissions",
     "title": "GruberMarkus/Export-RecipientPermissions: Document Exchange mailbox access ri...",
-    "count": 26,
+    "count": 18,
     "uniques": 7
   },
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/releases",
     "title": "Releases · GruberMarkus/Export-RecipientPermissions · GitHub",
-    "count": 11,
+    "count": 10,
     "uniques": 2
   },
   {
@@ -42,20 +42,14 @@
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/Export-RecipientPermissions/blob/main/download%20information.txt",
-    "title": "Export-RecipientPermissions/download information.txt at main · GruberMarkus/E...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/Export-RecipientPermissions/commit/4eb161aa77aeef2b9fe26e727d6ab39a4318da1e",
-    "title": "Bump gittools/actions from 0.9.11 to 0.9.13 (#6) · GruberMarkus/Export-Recipi...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/GruberMarkus/Export-RecipientPermissions/commits/develop",
     "title": "Commits · GruberMarkus/Export-RecipientPermissions",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Export-RecipientPermissions/releases/tag/v1.3.0",
+    "title": "Release Release v1.3.0 · GruberMarkus/Export-RecipientPermissions",
     "count": 1,
     "uniques": 1
   }
