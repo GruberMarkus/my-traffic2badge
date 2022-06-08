@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 122,
-    "uniques": 50
+    "count": 121,
+    "uniques": 48
   },
   {
     "referrer": "github.com",
-    "count": 33,
-    "uniques": 19
+    "count": 31,
+    "uniques": 18
   },
   {
     "referrer": "out.reddit.com",
@@ -20,14 +20,19 @@
     "uniques": 2
   },
   {
-    "referrer": "reddit.com",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "referrer": "joinup.ec.europa.eu",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "referrer": "reddit.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "opensourceagenda.com",
+    "count": 1,
+    "uniques": 1
   },
   {
     "referrer": "old.reddit.com",
