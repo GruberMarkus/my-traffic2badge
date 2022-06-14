@@ -2,14 +2,8 @@
   {
     "path": "/GruberMarkus/Export-RecipientPermissions",
     "title": "GruberMarkus/Export-RecipientPermissions: Document Exchange mailbox access ri...",
-    "count": 7,
-    "uniques": 6
-  },
-  {
-    "path": "/GruberMarkus/Export-RecipientPermissions/tree/develop",
-    "title": "GruberMarkus/Export-RecipientPermissions at develop",
-    "count": 2,
-    "uniques": 1
+    "count": 6,
+    "uniques": 5
   },
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/blob/main/download%20information.txt",
@@ -26,6 +20,12 @@
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/fork",
     "title": "Fork GruberMarkus/Export-RecipientPermissions",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Export-RecipientPermissions/tree/develop",
+    "title": "GruberMarkus/Export-RecipientPermissions at develop",
     "count": 1,
     "uniques": 1
   },
