@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "path": "/GruberMarkus/my-traffic2badge",
+    "title": "GitHub - GruberMarkus/my-traffic2badge",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/tree/workflows/.github",
+    "title": "my-traffic2badge/.github at workflows · GruberMarkus/my-traffic2badge · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/my-traffic2badge/tree/workflows/.github/workflows",
+    "title": "my-traffic2badge/.github/workflows at workflows · GruberMarkus/my-traffic2bad...",
+    "count": 1,
+    "uniques": 1
+  }
+]
