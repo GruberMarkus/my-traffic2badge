@@ -8,5 +8,10 @@
     "referrer": "out.reddit.com",
     "count": 3,
     "uniques": 2
+  },
+  {
+    "referrer": "reddit.com",
+    "count": 2,
+    "uniques": 1
   }
 ]
