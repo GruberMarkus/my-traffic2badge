@@ -2,20 +2,14 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures",
     "title": "GruberMarkus/Set-OutlookSignatures: Centrally manage and deploy Outlook text ...",
-    "count": 291,
-    "uniques": 190
+    "count": 310,
+    "uniques": 201
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src",
     "title": "Set-OutlookSignatures/src at main · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 17,
-    "uniques": 14
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/releases",
-    "title": "Releases · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 17,
-    "uniques": 13
+    "count": 18,
+    "uniques": 15
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/build",
@@ -24,10 +18,16 @@
     "uniques": 12
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/discussions",
-    "title": "Store Signatures in Sharepoint · Discussion #38 · GruberMarkus/Set-OutlookSig...",
+    "path": "/GruberMarkus/Set-OutlookSignatures/releases",
+    "title": "Releases · GruberMarkus/Set-OutlookSignatures · GitHub",
     "count": 16,
-    "uniques": 5
+    "uniques": 14
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/releases/tag/v3.1.0",
+    "title": "Release Release v3.1.0 · GruberMarkus/Set-OutlookSignatures · GitHub",
+    "count": 16,
+    "uniques": 12
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/releases/tag/v3.0.0",
@@ -36,27 +36,27 @@
     "uniques": 7
   },
   {
-    "path": "/GruberMarkus/Set-OutlookSignatures/releases/tag/v3.1.0",
-    "title": "Release Release v3.1.0 · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 14,
-    "uniques": 11
+    "path": "/GruberMarkus/Set-OutlookSignatures/discussions",
+    "title": "Store Signatures in Sharepoint · Discussion #38 · GruberMarkus/Set-OutlookSig...",
+    "count": 15,
+    "uniques": 5
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/discussions/38",
     "title": "Store Signatures in Sharepoint · Discussion #38 · GruberMarkus/Set-OutlookSig...",
-    "count": 14,
+    "count": 13,
     "uniques": 4
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/issues",
+    "title": "Issues · GruberMarkus/Set-OutlookSignatures · GitHub",
+    "count": 10,
+    "uniques": 5
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/blob/main/build/build.ps1",
     "title": "Set-OutlookSignatures/build.ps1 at main · GruberMarkus/Set-OutlookSignatures ...",
     "count": 8,
     "uniques": 8
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/find/main",
-    "title": "File Finder · GitHub",
-    "count": 8,
-    "uniques": 6
   }
 ]
