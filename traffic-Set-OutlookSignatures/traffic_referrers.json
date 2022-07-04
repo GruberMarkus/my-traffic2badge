@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 184,
-    "uniques": 81
+    "count": 181,
+    "uniques": 80
   },
   {
     "referrer": "github.com",
-    "count": 125,
-    "uniques": 70
+    "count": 128,
+    "uniques": 73
   },
   {
     "referrer": "reddit.com",
@@ -16,18 +16,18 @@
   },
   {
     "referrer": "account.activedirectory.windowsazure.com",
-    "count": 8,
+    "count": 9,
     "uniques": 1
-  },
-  {
-    "referrer": "out.reddit.com",
-    "count": 4,
-    "uniques": 2
   },
   {
     "referrer": "DuckDuckGo",
     "count": 3,
     "uniques": 2
+  },
+  {
+    "referrer": "out.reddit.com",
+    "count": 3,
+    "uniques": 1
   },
   {
     "referrer": "statics.teams.cdn.office.net",
