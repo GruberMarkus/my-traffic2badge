@@ -2,8 +2,8 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures",
     "title": "GruberMarkus/Set-OutlookSignatures: Centrally manage and deploy Outlook text ...",
-    "count": 302,
-    "uniques": 201
+    "count": 286,
+    "uniques": 188
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/src",
@@ -20,35 +20,23 @@
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/tree/main/build",
     "title": "Set-OutlookSignatures/build at main · GruberMarkus/Set-OutlookSignatures · Gi...",
-    "count": 16,
-    "uniques": 11
+    "count": 14,
+    "uniques": 9
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/releases",
     "title": "Releases · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 15,
-    "uniques": 13
+    "count": 13,
+    "uniques": 12
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/releases/tag/v3.0.0",
     "title": "Release Release v3.0.0 · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 15,
-    "uniques": 7
+    "count": 12,
+    "uniques": 6
   },
   {
     "path": "/GruberMarkus/Set-OutlookSignatures/discussions",
-    "title": "Store Signatures in Sharepoint · Discussion #38 · GruberMarkus/Set-OutlookSig...",
-    "count": 10,
-    "uniques": 5
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/issues",
-    "title": "Issues · GruberMarkus/Set-OutlookSignatures · GitHub",
-    "count": 10,
-    "uniques": 5
-  },
-  {
-    "path": "/GruberMarkus/Set-OutlookSignatures/discussions/38",
     "title": "Store Signatures in Sharepoint · Discussion #38 · GruberMarkus/Set-OutlookSig...",
     "count": 9,
     "uniques": 4
@@ -58,5 +46,17 @@
     "title": "File Finder · GitHub",
     "count": 8,
     "uniques": 6
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/discussions/38",
+    "title": "Store Signatures in Sharepoint · Discussion #38 · GruberMarkus/Set-OutlookSig...",
+    "count": 8,
+    "uniques": 4
+  },
+  {
+    "path": "/GruberMarkus/Set-OutlookSignatures/issues",
+    "title": "Issues · GruberMarkus/Set-OutlookSignatures",
+    "count": 8,
+    "uniques": 4
   }
 ]
