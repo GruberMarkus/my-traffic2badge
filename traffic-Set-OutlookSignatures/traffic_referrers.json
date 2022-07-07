@@ -1,23 +1,28 @@
 [
   {
     "referrer": "Google",
-    "count": 144,
-    "uniques": 69
+    "count": 147,
+    "uniques": 68
   },
   {
     "referrer": "github.com",
-    "count": 127,
-    "uniques": 72
+    "count": 141,
+    "uniques": 74
   },
   {
     "referrer": "reddit.com",
-    "count": 16,
-    "uniques": 10
+    "count": 17,
+    "uniques": 11
   },
   {
     "referrer": "account.activedirectory.windowsazure.com",
     "count": 10,
     "uniques": 1
+  },
+  {
+    "referrer": "Bing",
+    "count": 4,
+    "uniques": 2
   },
   {
     "referrer": "DuckDuckGo",
@@ -35,17 +40,12 @@
     "uniques": 2
   },
   {
-    "referrer": "Bing",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "referrer": "doku.seu.sozvers.at",
     "count": 2,
     "uniques": 1
   },
   {
-    "referrer": "joinup.ec.europa.eu",
+    "referrer": "community.spiceworks.com",
     "count": 1,
     "uniques": 1
   }
