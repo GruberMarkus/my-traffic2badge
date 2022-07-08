@@ -5,13 +5,13 @@
     "uniques": 3
   },
   {
-    "referrer": "trac.streamboard.tv",
-    "count": 12,
-    "uniques": 6
-  },
-  {
     "referrer": "Google",
     "count": 12,
     "uniques": 4
+  },
+  {
+    "referrer": "trac.streamboard.tv",
+    "count": 11,
+    "uniques": 6
   }
 ]
