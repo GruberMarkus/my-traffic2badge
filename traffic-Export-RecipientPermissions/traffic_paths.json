@@ -3,11 +3,17 @@
     "path": "/GruberMarkus/Export-RecipientPermissions",
     "title": "GruberMarkus/Export-RecipientPermissions: Document Exchange mailbox access ri...",
     "count": 43,
-    "uniques": 31
+    "uniques": 32
   },
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/releases",
     "title": "Releases · GruberMarkus/Export-RecipientPermissions · GitHub",
+    "count": 9,
+    "uniques": 9
+  },
+  {
+    "path": "/GruberMarkus/Export-RecipientPermissions/blob/main/src/Export-RecipientPermissions.ps1",
+    "title": "Export-RecipientPermissions/Export-RecipientPermissions.ps1 at main · GruberM...",
     "count": 3,
     "uniques": 3
   },
@@ -18,12 +24,6 @@
     "uniques": 1
   },
   {
-    "path": "/GruberMarkus/Export-RecipientPermissions/blob/main/src/Export-RecipientPermissions.ps1",
-    "title": "Export-RecipientPermissions/Export-RecipientPermissions.ps1 at main · GruberM...",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/GruberMarkus/Export-RecipientPermissions/issues",
     "title": "GruberMarkus/Export-RecipientPermissions: Document Exchange mailbox access ri...",
     "count": 2,
@@ -32,6 +32,12 @@
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/releases/tag/v1.5.1",
     "title": "Release Release v1.5.1 · GruberMarkus/Export-RecipientPermissions · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/GruberMarkus/Export-RecipientPermissions/tree/main/src",
+    "title": "Export-RecipientPermissions/src at main · GruberMarkus/Export-RecipientPermis...",
     "count": 2,
     "uniques": 2
   },
@@ -50,12 +56,6 @@
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/actions/runs/2571725948",
     "title": "Release v1.5.1 · GruberMarkus/Export-RecipientPermissions@10be9b5",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/Export-RecipientPermissions/blob/main/docs/CODE_OF_CONDUCT.md",
-    "title": "Export-RecipientPermissions/docs at main · GruberMarkus/Export-RecipientPermi...",
     "count": 1,
     "uniques": 1
   }

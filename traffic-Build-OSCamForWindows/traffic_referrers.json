@@ -1,17 +1,17 @@
 [
   {
-    "referrer": "github.com",
-    "count": 14,
-    "uniques": 3
+    "referrer": "trac.streamboard.tv",
+    "count": 12,
+    "uniques": 6
   },
   {
-    "referrer": "trac.streamboard.tv",
-    "count": 10,
-    "uniques": 5
+    "referrer": "github.com",
+    "count": 5,
+    "uniques": 3
   },
   {
     "referrer": "Google",
-    "count": 10,
-    "uniques": 3
+    "count": 4,
+    "uniques": 2
   }
 ]
