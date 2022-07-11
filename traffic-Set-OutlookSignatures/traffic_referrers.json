@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 178,
-    "uniques": 66
+    "count": 128,
+    "uniques": 54
   },
   {
     "referrer": "github.com",
-    "count": 147,
-    "uniques": 77
+    "count": 107,
+    "uniques": 52
   },
   {
     "referrer": "reddit.com",
-    "count": 25,
-    "uniques": 13
+    "count": 23,
+    "uniques": 11
   },
   {
     "referrer": "joinup.ec.europa.eu",
@@ -31,21 +31,21 @@
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "referrer": "out.reddit.com",
     "count": 3,
     "uniques": 1
   },
   {
-    "referrer": "doku.seu.sozvers.at",
-    "count": 2,
+    "referrer": "community.spiceworks.com",
+    "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "community.spiceworks.com",
+    "referrer": "doku.seu.sozvers.at",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "libhunt.com",
     "count": 1,
     "uniques": 1
   }
