@@ -2,14 +2,14 @@
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/releases",
     "title": "Releases · GruberMarkus/Export-RecipientPermissions · GitHub",
-    "count": 37,
-    "uniques": 29
+    "count": 43,
+    "uniques": 32
   },
   {
     "path": "/GruberMarkus/Export-RecipientPermissions",
     "title": "Releases · GruberMarkus/Export-RecipientPermissions",
-    "count": 31,
-    "uniques": 20
+    "count": 28,
+    "uniques": 18
   },
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/tree/main/src",
@@ -42,20 +42,20 @@
     "uniques": 2
   },
   {
-    "path": "/GruberMarkus/Export-RecipientPermissions/blob/main/download%20information.txt",
-    "title": "Export-RecipientPermissions/download information.txt at main · GruberMarkus/E...",
+    "path": "/GruberMarkus/Export-RecipientPermissions/releases/tag/v2.0.0-beta1",
+    "title": "Release Release v2.0.0-beta1 · GruberMarkus/Export-RecipientPermissions · Git...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/GruberMarkus/Export-RecipientPermissions/stargazers",
+    "title": "Stargazers · GruberMarkus/Export-RecipientPermissions",
     "count": 2,
     "uniques": 1
   },
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/tree/main/docs",
     "title": "GruberMarkus/Export-RecipientPermissions: Document Exchange mailbox access ri...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/Export-RecipientPermissions/tree/main/src/sample%20code/other%20samples",
-    "title": "Export-RecipientPermissions/src/sample code at main · GruberMarkus/Export-Rec...",
     "count": 2,
     "uniques": 1
   }

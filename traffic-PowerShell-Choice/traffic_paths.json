@@ -2,8 +2,8 @@
   {
     "path": "/GruberMarkus/PowerShell-Choice",
     "title": "GitHub - GruberMarkus/PowerShell-Choice: Choice with timeout for PowerShell",
-    "count": 5,
-    "uniques": 4
+    "count": 4,
+    "uniques": 3
   },
   {
     "path": "/GruberMarkus/PowerShell-Choice/blob/master/choice.ps1",
@@ -15,12 +15,6 @@
     "path": "/GruberMarkus/PowerShell-Choice/find/master",
     "title": "File Finder · GitHub",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/PowerShell-Choice/commit/5043795a7fd157bbc50e1848047c981f115a4a47",
-    "title": "Update choice.ps1 · GruberMarkus/PowerShell-Choice@5043795 · GitHub",
-    "count": 1,
     "uniques": 1
   }
 ]
