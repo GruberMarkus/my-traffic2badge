@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 216,
-    "uniques": 51
+    "count": 200,
+    "uniques": 52
   },
   {
     "referrer": "github.com",
-    "count": 42,
-    "uniques": 21
+    "count": 39,
+    "uniques": 19
   },
   {
     "referrer": "reddit.com",
@@ -25,8 +25,8 @@
     "uniques": 2
   },
   {
-    "referrer": "linkedin.com",
-    "count": 2,
+    "referrer": "com.linkedin.android",
+    "count": 3,
     "uniques": 2
   },
   {
@@ -40,7 +40,7 @@
     "uniques": 1
   },
   {
-    "referrer": "statics.teams.cdn.office.net",
+    "referrer": "account.activedirectory.windowsazure.com",
     "count": 1,
     "uniques": 1
   },

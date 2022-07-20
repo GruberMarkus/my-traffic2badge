@@ -2,8 +2,8 @@
   {
     "path": "/GruberMarkus/Export-RecipientPermissions/releases",
     "title": "Releases · GruberMarkus/Export-RecipientPermissions · GitHub",
-    "count": 63,
-    "uniques": 47
+    "count": 61,
+    "uniques": 45
   },
   {
     "path": "/GruberMarkus/Export-RecipientPermissions",
@@ -30,21 +30,9 @@
     "uniques": 4
   },
   {
-    "path": "/GruberMarkus/Export-RecipientPermissions/releases/tag/v1.5.1",
-    "title": "Release Release v1.5.1 · GruberMarkus/Export-RecipientPermissions · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/GruberMarkus/Export-RecipientPermissions/stargazers",
     "title": "Stargazers · GruberMarkus/Export-RecipientPermissions",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/GruberMarkus/Export-RecipientPermissions/tree/main/docs",
-    "title": "GruberMarkus/Export-RecipientPermissions: Document Exchange mailbox access ri...",
-    "count": 2,
+    "count": 3,
     "uniques": 1
   },
   {
@@ -56,6 +44,18 @@
   {
     "path": "/grubermarkus/export-recipientpermissions",
     "title": "GitHub - GruberMarkus/Export-RecipientPermissions: Document, filter and compa...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Export-RecipientPermissions/blob/develop/docs/README.md",
+    "title": "Export-RecipientPermissions/README.md at develop · GruberMarkus/Export-Recipi...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/GruberMarkus/Export-RecipientPermissions/blob/main/download%20information.txt",
+    "title": "Export-RecipientPermissions/download information.txt at main · GruberMarkus/E...",
     "count": 1,
     "uniques": 1
   }
