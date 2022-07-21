@@ -1,38 +1,38 @@
 [
   {
     "referrer": "Google",
-    "count": 200,
-    "uniques": 52
+    "count": 223,
+    "uniques": 60
   },
   {
     "referrer": "github.com",
-    "count": 39,
-    "uniques": 19
+    "count": 52,
+    "uniques": 20
   },
   {
-    "referrer": "reddit.com",
-    "count": 12,
-    "uniques": 5
+    "referrer": "Bing",
+    "count": 29,
+    "uniques": 3
   },
   {
     "referrer": "joinup.ec.europa.eu",
-    "count": 9,
-    "uniques": 2
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "referrer": "reddit.com",
+    "count": 4,
+    "uniques": 3
+  },
+  {
+    "referrer": "com.linkedin.android",
+    "count": 4,
+    "uniques": 3
   },
   {
     "referrer": "community.spiceworks.com",
     "count": 4,
     "uniques": 2
-  },
-  {
-    "referrer": "com.linkedin.android",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "referrer": "Bing",
-    "count": 2,
-    "uniques": 1
   },
   {
     "referrer": "DuckDuckGo",
@@ -45,7 +45,7 @@
     "uniques": 1
   },
   {
-    "referrer": "libhunt.com",
+    "referrer": "linkedin.com",
     "count": 1,
     "uniques": 1
   }
